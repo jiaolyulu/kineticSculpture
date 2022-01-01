@@ -29,6 +29,7 @@ Showcasing all project in 1-2 phone booth for 1 week.
 **9: Spring Show ...**
 
 #### Project Requirement
+Prompt: Soft Move.
 1: Using Motor(all kinds of motors, pneumatic or water pump counts)
 2: Width+Height+Depth within 6 ft, recommend even smaller in size
 3: Encourage explore Mechanism or Material
@@ -36,6 +37,10 @@ Showcasing all project in 1-2 phone booth for 1 week.
 5: No matrix of motors (It is kind of difficult to do it in a small club, go for Digifab if you want to do that)
 
 #### Club Spirit
+1. We are not dumb mechanics. We are trying to bring the softness and tenderness in ourselves to those movements. Those engineers are admirable.
+2. Movement could bring a sculpture a second life.
+3. Physical movement and virtual movement is different. We love to play with the limitation of physical things.
+4. We love to play and observe movements.
 
 
 [Link](url) and ![Image](src)
