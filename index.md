@@ -1,5 +1,6 @@
 ### kinect
 #### Schedule of Meeting
+![Image about the content of this club](images/start-poster.png)
 **1: Jan, 29, 2022, Intro to Kinect Sculpture Club**
 
 introduce what is Kinetic Sculpture, What we made and schedule and club spirit.
@@ -52,4 +53,4 @@ Prompt: Soft Move.
 4. We love to play and observe movements.
 
 
-[Link](url) and ![Image](images/start-poster.png)
+[Link](url) and 
