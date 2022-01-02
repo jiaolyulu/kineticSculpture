@@ -1,4 +1,8 @@
-### kinect
+### kinetic sculpture
+What is it?
+First of all, it is not using kinect!
+
+
 #### Schedule of Meeting
 ![Image about the content of this club](images/start-poster.png)
 **1: Jan, 29, 2022, Intro to Kinect Sculpture Club**
@@ -14,7 +18,7 @@ For next Meeting: Share one piece of work / one artist that could show your fiel
 
 **3: Feb, 19, 2022, Fusion 360 Simulation of Mechanism, Understanding gears**
 
-Slide for Sharing pieces of work you like
+[Slide for Sharing pieces of work you like](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 talk about the final project
 For next Meeting: Share pieces of work you like... or your past kinetic project
 
@@ -22,12 +26,13 @@ For next Meeting: Share pieces of work you like... or your past kinetic project
 
 **5: Mar, 5, 2022, Automata and its Mechanism, Play with Mechanism using wires and cardboard, A glance at Mcmaster**
 
-Slide for Sharing pieces of work you like
+[Slide for Sharing pieces of work you like](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 talk about the final project
 **6: Mar, 26, 2022, Generative Design, Guest Speaker**
 
-Slide: Material in kinetic art
-Slide for Sharing pieces of work you like
+[Slide: Material in kinetic art](https://docs.google.com/presentation/d/1C8GwCTfussdMojRNWRNiwoKI-sx_cPrYeFUIp9d8Z1M/edit?usp=sharing)
+
+[Slide for Sharing pieces of work you like](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 talk about the final project
 **7: Apr 2, 2022, Tips for finishing a project** 
 
@@ -50,7 +55,8 @@ Prompt: Soft Move.
 1. We are not dumb mechanics. We are trying to bring the softness and tenderness in ourselves to those movements. Those engineers are admirable.
 2. Movement could bring a sculpture a second life.
 3. Physical movement and virtual movement is different. We love to play with the limitation of physical things.
-4. We love to play and observe movements.
+4. We love to play and observe motion.
+5. We acknowledge that the motion of matter is the basics of our world.
+6. 
 
 
-[Link](url) and 
