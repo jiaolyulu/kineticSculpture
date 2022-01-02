@@ -52,4 +52,4 @@ Prompt: Soft Move.
 4. We love to play and observe movements.
 
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](images/start-poster.png)
