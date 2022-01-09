@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+### kinetic sculpture
+What is it?
+First of all, it is not using kinect!
 
-You can use the [editor on GitHub](https://github.com/jiaolyulu/kineticSculpture/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Schedule of Meeting
+![Image about the content of this club](images/start-poster.png)
+**1: Jan, 29, 2022, Intro to Kinect Sculpture Club**
 
-### Markdown
+introduce what is Kinetic Sculpture, What we made and schedule and club spirit.
+If you want to receive emails about this club meeting please ***[fill in your email here](https://docs.google.com/spreadsheets/d/1_8TiYV4YC-upCKt304OQojFMGG0DDho1HfJRl6GY3YE/edit?usp=sharing)***!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**2: Feb, 4, 2022, Kinetic Art, a visit to David Rios's Office**
 
-```markdown
-Syntax highlighted code block
+Slide: Kinetic Art, lulu would like to share pieces of artwork that blow her mind
+Visiting David Rios's Office
+For next Meeting: Share one piece of work / one artist that could show your field of interest related to this club. If you want to do a final project, think about the Final Project and share the idea next time.
 
-# Header 1
-## Header 2
-### Header 3
+**3: Feb, 19, 2022, Fusion 360 Simulation of Mechanism, Understanding gears**
 
-- Bulleted
-- List
+[Slide for Sharing pieces of work you like](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
+talk about the final project
+For next Meeting: Share pieces of work you like... or your past kinetic project
 
-1. Numbered
-2. List
+**4: Feb, 26, 2022, Understanding Motors, Controlling High current devices, Controlling DC motors and Linear Actuators, Controlling Stepper Motors**
 
-**Bold** and _Italic_ and `Code` text
+**5: Mar, 5, 2022, Automata and its Mechanism, Play with Mechanism using wires and cardboard, A glance at Mcmaster**
 
-[Link](url) and ![Image](src)
-```
+[Slide for Sharing pieces of work you like](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
+talk about the final project
+**6: Mar, 26, 2022, Generative Design, Guest Speaker**
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[Slide: Material in kinetic art](https://docs.google.com/presentation/d/1C8GwCTfussdMojRNWRNiwoKI-sx_cPrYeFUIp9d8Z1M/edit?usp=sharing)
 
-### Jekyll Themes
+[Slide for Sharing pieces of work you like](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
+talk about the final project
+**7: Apr 2, 2022, Tips for finishing a project** 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jiaolyulu/kineticSculpture/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Slide for better finishing a project
+talk about the final project
+**8: Apr 16 - Apr 23, 2022**
 
-### Support or Contact
+Showcasing all project in 1-2 phone booth for 1 week.
+**9: Spring Show ...**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Project Requirement
+Prompt: Soft Move.
+1: Using Motor(all kinds of motors, pneumatic or water pump counts)
+2: Width+Height+Depth within 6 ft, recommend even smaller in size
+3: Encourage explore Mechanism or Material
+4: Can work well without maintainance for 1 week
+5: No matrix of motors (It is kind of difficult to do it in a small club, go for Digifab if you want to do that)
+
+#### Club Spirit
+1. We are not dumb mechanics. We are trying to bring the softness and tenderness in ourselves to those movements. Those engineers are admirable.
+2. Movement could bring a sculpture a second life.
+3. Physical movement and virtual movement is different. We love to play with the limitation of physical things.
+4. We love to play and observe motion.
+5. We acknowledge that the motion of matter is the basics of our world.
+6. 
+
+
