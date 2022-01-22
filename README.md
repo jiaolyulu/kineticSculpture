@@ -1,5 +1,7 @@
 ### If you want to receive emails about this club meeting please ***[fill in your email here](https://docs.google.com/spreadsheets/d/1_8TiYV4YC-upCKt304OQojFMGG0DDho1HfJRl6GY3YE/edit?usp=sharing)***!
 
+![Image about the content of this club](images/coverimage.gif)
+
 ### kinetic sculpture
 What is it?
 First of all, it is not using kinect!
