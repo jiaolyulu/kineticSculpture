@@ -1,8 +1,8 @@
 #### Schedule of Meeting
-![Image about the content of this club](images/start-poster.png)
+![Image about the content of this club](images/coverimage.gif)
 **1: Jan, 29, 2022, Intro to Kinect Sculpture Club**
 
-introduce what is Kinetic Sculpture, What we made and schedule and club spirit.
+[Slide](https://docs.google.com/presentation/d/14Gx4rb5BBoBIqE4TX549-QRHddT8LkuYYS29SPru7Ak/edit?usp=sharing)introduce what is Kinetic Sculpture, What we made and schedule and club spirit.
 
 If you want to receive emails about this club meeting please ***[fill in your email here](https://docs.google.com/spreadsheets/d/1_8TiYV4YC-upCKt304OQojFMGG0DDho1HfJRl6GY3YE/edit?usp=sharing)***!
 
@@ -15,6 +15,8 @@ Visiting David Rios's Office
 For next Meeting: Share one piece of work / one artist that could show your field of interest related to this club. If you want to do a final project, think about the Final Project and share the idea next time.
 
 **3: Feb, 19, 2022, Fusion 360 Simulation of Mechanism, Understanding gears**
+![Image about the fusion 360 simulation of bob potts's piece of artwork name is pursuit 2](images/bird)
+![Image about the fusion 360 simulation of bob potts's piece of artwork name is synchronized movement](images/finger)
 
 [Slide for Sharing pieces of work you like](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 
