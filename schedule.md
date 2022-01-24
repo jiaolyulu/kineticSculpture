@@ -15,8 +15,8 @@ Visiting David Rios's Office
 For next Meeting: Share one piece of work / one artist that could show your field of interest related to this club. If you want to do a final project, think about the Final Project and share the idea next time.
 
 **3: Feb, 19, 2022, Fusion 360 Simulation of Mechanism, Understanding gears**
-![Image about the fusion 360 simulation of bob potts's piece of artwork name is pursuit 2](images/bird)
-![Image about the fusion 360 simulation of bob potts's piece of artwork name is synchronized movement](images/finger)
+![Image about the fusion 360 simulation of bob potts's piece of artwork name is pursuit 2](images/bird.jpg)
+![Image about the fusion 360 simulation of bob potts's piece of artwork name is synchronized movement](images/finger.jpg)
 
 [Slide for Sharing pieces of work you like](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 
