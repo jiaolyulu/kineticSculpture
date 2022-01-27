@@ -69,6 +69,10 @@ talk about the final project
 
 Slide for better finishing a project
 
+online Lasercut Service to cut metal
+
+sheet metal bending
+
 talk about the final project
 
 **8: Apr 16 - Apr 23, 2022**
