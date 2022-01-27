@@ -22,11 +22,11 @@ Prompt: Soft Move.
 
 4: Can work well without maintainance for 1 week
 
-5: No matrix of motors (It is kind of difficult to do it in a small club, go for Digifab if you want to do that)
+5: No matrix of motors (It is kind of difficult to do it in a small club, go for Digifab if you want to do that) unless ...
 
 
 #### Acknowledgement
-This club is run by Lulu[office hour,, I can help with fusion 360](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJOTTdyTkx0TXhPfGRlZmF1bHR8ZTczNmY5OWYzNGQ3ODMwMjQ4NGVjY2Y4YjMwMTBhYzA)
+This club is run by Lulu  [office hour, I can help with fusion 360](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJOTTdyTkx0TXhPfGRlZmF1bHR8ZTczNmY5OWYzNGQ3ODMwMjQ4NGVjY2Y4YjMwMTBhYzA)
 
 Thanks for the support from Danniel Rozin, David Rios & ITP floor.
 
