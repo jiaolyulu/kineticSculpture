@@ -5,7 +5,7 @@
 
 [Slide](https://docs.google.com/presentation/d/14Gx4rb5BBoBIqE4TX549-QRHddT8LkuYYS29SPru7Ak/edit?usp=sharing)  introduce what is Kinetic Sculpture, What we made and schedule and club spirit.
 
-There are so so so many great kinetic artists. Here is a list of artists that I found. [List](https://www.notion.so/30e6a2345652415abdf82babb003ed84?v=eab0870d39d64d0aa472fc74f6e8c2e6) !!!! Important!!!! Don't try to look at more than 10 artists at once!!!
+There are so so so many great kinetic artists. Here is a list of artists that I found. [List](https://www.notion.so/30e6a2345652415abdf82babb003ed84?v=eab0870d39d64d0aa472fc74f6e8c2e6) **!!!! Important!!!! Don't try to look at more than 10 artists at once!!!!**
 
 If you want to receive emails about this club meeting please ***[fill in your email here](https://docs.google.com/spreadsheets/d/1_8TiYV4YC-upCKt304OQojFMGG0DDho1HfJRl6GY3YE/edit?usp=sharing)***!
 
@@ -19,11 +19,15 @@ Visiting David Rios's Office
 
 For next Meeting: Share one piece of work / one artist that could show your field of interest related to this club. If you want to do a final project, think about the Final Project and share the idea next time.
 
-**3: Feb, 19, 2022, 1:00 pm - 2:30 pm, Automata and its Mechanism, Play with Mechanism using wires and cardboard**
+**3: Feb, 19, 2022, 1:00 pm - 3:30 pm, Automata and its Mechanism, Play with Mechanism using wires and cardboard**
 ![image of an automata which is a machine full of mechanical moving part to write and draw something. The machine is made into the shape of a little boy](images/clubSpiritAutomata1.gif)
 this extraordinary little doll is actually a self-operating machine that's believed by some to be one of the oldest examples of a computer. Known as “The Writer,”.
 
 [slide Automata](https://docs.google.com/presentation/d/11pqmIhH43Y5V3ufvG02QRKbX3dsfqv2rV_EwonJ81w8/edit?usp=sharing)
+
+What it means when I watch the feather gently weeps my guitar？Thinking kinetic sculpture like a painting...
+
+Alexander Calder's early practice... wire
 
 [MotionGenPro](http://motiongenpro.appspot.com/)  generate some linakge and lever mechanism using this online tool
 
