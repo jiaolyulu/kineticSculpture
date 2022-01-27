@@ -1,6 +1,7 @@
 ### If you want to receive emails about this club meeting please ***[fill in your email here](https://docs.google.com/spreadsheets/d/1_8TiYV4YC-upCKt304OQojFMGG0DDho1HfJRl6GY3YE/edit?usp=sharing)***!
 
-January 29th, (Saturday), 1:00 pm - 2:30 pm, conference room or [zoom](https://nyu.zoom.us/j/9263136647)
+January 29th, (Saturday), 1:00 pm - 2:30 pm, [zoom](https://nyu.zoom.us/j/9263136647) 
+The first meeting is going to be virtually on zoom due to snowstorm.
 
 
 ![Image about the content of this club](images/coverimage.gif)
