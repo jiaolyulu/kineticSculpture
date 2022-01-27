@@ -1,7 +1,7 @@
 #### Schedule of Meeting
 ![Image about the content of this club](images/coverimage.gif)
 
-**1: Jan, 29, 2022, Intro to Kinect Sculpture Club**
+**1: Jan, 29, 2022, 1:00 pm - 2:30 pm, Intro to Kinect Sculpture Club**
 
 [Slide](https://docs.google.com/presentation/d/14Gx4rb5BBoBIqE4TX549-QRHddT8LkuYYS29SPru7Ak/edit?usp=sharing)  introduce what is Kinetic Sculpture, What we made and schedule and club spirit.
 
@@ -11,7 +11,7 @@ If you want to receive emails about this club meeting please ***[fill in your em
 
 [What are you more interested in?](https://forms.gle/UbcpoNU4TqCdwTEP8)
 
-**2: Feb, 11, 2022, Kinetic Art, a visit to David Rios's Office**
+**2: Feb, 11, 2022, 1:00 pm - 2:30 pm, Kinetic Art, a visit to David Rios's Office**
 
 [Slide: Kinetic Art](https://docs.google.com/presentation/d/1mZE3s1pjGkISQD-sEvAQ-doHM36Kzi36h_v48b8yb3M/edit?usp=sharing), lulu would like to share pieces of artwork that blow her mind, and I want you to share your experience too.
 
@@ -19,7 +19,7 @@ Visiting David Rios's Office
 
 For next Meeting: Share one piece of work / one artist that could show your field of interest related to this club. If you want to do a final project, think about the Final Project and share the idea next time.
 
-**3: Feb, 19, 2022, Automata and its Mechanism, Play with Mechanism using wires and cardboard**
+**3: Feb, 19, 2022, 1:00 pm - 2:30 pm, Automata and its Mechanism, Play with Mechanism using wires and cardboard**
 ![image of an automata which is a machine full of mechanical moving part to write and draw something. The machine is made into the shape of a little boy](images/clubSpiritAutomata1.gif)
 this extraordinary little doll is actually a self-operating machine that's believed by some to be one of the oldest examples of a computer. Known as “The Writer,”.
 
@@ -33,13 +33,13 @@ talk about the final project
 
 For next Meeting: Share pieces of work you like... or your past kinetic project
 
-**4: Feb, 26, 2022, Understanding Motors, Controlling High current devices, Controlling DC motors and Linear Actuators, Controlling Stepper Motors**
+**4: Feb, 26, 2022, 1:00 pm - 2:30 pm, Understanding Motors, Controlling High current devices, Controlling DC motors and Linear Actuators, Controlling Stepper Motors**
 
 [Actuators and Examples](https://www.notion.so/d680aeca8e5a4f519d589a9c485d8ecc?v=69c9a7fb00ae4047a855410953f721f3)
 
 [slide](https://docs.google.com/presentation/d/1dfep1qj0_mXK4wCVpKLdVQtoGF9ODLN1W1-e40YU5M0/edit?usp=sharing) Motor control
 
-**5: Mar, 5, 2022, Fusion 360 Simulation of Mechanism, Understanding gears, A glance at Mcmaster**
+**5: Mar, 5, 2022, 1:00 pm - 2:30 pm, Fusion 360 Simulation of Mechanism, Understanding gears, A glance at Mcmaster**
 
 [Fusion 360 Download](https://www.autodesk.com/products/fusion-360/overview)
 
@@ -56,7 +56,7 @@ a demo in Fusion 360
 [Slide for Sharing pieces of work you like](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 talk about the final project
 
-**6: Mar, 26, 2022, Generative Design, Guest Speaker**
+**6: Mar, 26, 2022, 1:00 pm - 2:30 pm, Generative Design, Guest Speaker**
 
 Maybe there is a field trip before this session
 
@@ -65,7 +65,7 @@ Maybe there is a field trip before this session
 [Slide for Sharing pieces of work you like](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 talk about the final project
 
-**7: Apr 2, 2022, Tips for finishing a project** 
+**7: Apr 2, 2022, 1:00 pm - 2:30 pm, Tips for finishing a project** 
 
 Slide for better finishing a project
 
