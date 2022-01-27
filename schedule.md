@@ -21,11 +21,11 @@ For next Meeting: Share one piece of work / one artist that could show your fiel
 
 **3: Feb, 19, 2022, Automata and its Mechanism, Play with Mechanism using wires and cardboard**
 ![image of an automata which is a machine full of mechanical moving part to write and draw something. The machine is made into the shape of a little boy](images/clubSpiritAutomata1.gif)
-this extraordinary little doll is actually a self-operating machine that's believed by some to be one of the oldest examples of a computer. Known as “The Writer,” the automaton was built by Swiss-born watchmaker Pierre Jaquet-Droz in order to entertain nobility and promote watches. 
+this extraordinary little doll is actually a self-operating machine that's believed by some to be one of the oldest examples of a computer. Known as “The Writer,”.
 
 [slide Automata](https://docs.google.com/presentation/d/11pqmIhH43Y5V3ufvG02QRKbX3dsfqv2rV_EwonJ81w8/edit?usp=sharing)
 
-[MotionGenPro](http://motiongenpro.appspot.com/)generate some linakge and lever mechanism using this online tool
+[MotionGenPro](http://motiongenpro.appspot.com/)  generate some linakge and lever mechanism using this online tool
 
 [Slide for Sharing pieces of work you like](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 
