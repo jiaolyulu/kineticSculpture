@@ -67,7 +67,7 @@ talk about the final project
 
 **8: Apr 16 - Apr 23, 2022**
 
-Showcasing all project in 1-2 phone booth for 1 week.
+Showcasing all project in 1-2 phone booth for 1 week. Space is to be decided.
 
 **9: Spring Show ...**
 
@@ -78,3 +78,5 @@ Showcasing all project in 1-2 phone booth for 1 week.
 [The Shed: Tomás Saraceno: Particular Matter(s)](https://theshed.org/program/227-tomas-saraceno-particular-matter-s)
 
 [MaterialConnexion](https://materialconnexion.com/)
+
+If you want to do one of the club meeting together with lulu, please talk to lulu.
