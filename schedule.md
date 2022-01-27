@@ -52,6 +52,8 @@ talk about the final project
 
 **6: Mar, 26, 2022, Generative Design, Guest Speaker**
 
+Maybe there is a field trip before this session
+
 [Slide: Material in kinetic art](https://docs.google.com/presentation/d/1C8GwCTfussdMojRNWRNiwoKI-sx_cPrYeFUIp9d8Z1M/edit?usp=sharing)
 
 [Slide for Sharing pieces of work you like](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
