@@ -5,11 +5,15 @@
 
 [Slide](https://docs.google.com/presentation/d/14Gx4rb5BBoBIqE4TX549-QRHddT8LkuYYS29SPru7Ak/edit?usp=sharing)  introduce what is Kinetic Sculpture, What we made and schedule and club spirit.
 
+There are so so so many great kinetic artists. Here is a list of artists that I found. [List](https://www.notion.so/30e6a2345652415abdf82babb003ed84?v=eab0870d39d64d0aa472fc74f6e8c2e6) !!!! Important!!!! Don't try to look at more than 10 artists at once!!!
+
 If you want to receive emails about this club meeting please ***[fill in your email here](https://docs.google.com/spreadsheets/d/1_8TiYV4YC-upCKt304OQojFMGG0DDho1HfJRl6GY3YE/edit?usp=sharing)***!
+
+[What are you more interested in?](https://forms.gle/UbcpoNU4TqCdwTEP8)
 
 **2: Feb, 11, 2022, Kinetic Art, a visit to David Rios's Office**
 
-[Slide: Kinetic Art](https://docs.google.com/presentation/d/1mZE3s1pjGkISQD-sEvAQ-doHM36Kzi36h_v48b8yb3M/edit?usp=sharing), lulu would like to share pieces of artwork that blow her mind
+[Slide: Kinetic Art](https://docs.google.com/presentation/d/1mZE3s1pjGkISQD-sEvAQ-doHM36Kzi36h_v48b8yb3M/edit?usp=sharing), lulu would like to share pieces of artwork that blow her mind, and I want you to share your experience too.
 
 Visiting David Rios's Office
 
@@ -30,6 +34,8 @@ talk about the final project
 For next Meeting: Share pieces of work you like... or your past kinetic project
 
 **4: Feb, 26, 2022, Understanding Motors, Controlling High current devices, Controlling DC motors and Linear Actuators, Controlling Stepper Motors**
+
+[Actuators and Examples](https://www.notion.so/d680aeca8e5a4f519d589a9c485d8ecc?v=69c9a7fb00ae4047a855410953f721f3)
 
 [slide](https://docs.google.com/presentation/d/1dfep1qj0_mXK4wCVpKLdVQtoGF9ODLN1W1-e40YU5M0/edit?usp=sharing) Motor control
 
@@ -67,7 +73,7 @@ talk about the final project
 
 **8: Apr 16 - Apr 23, 2022**
 
-Showcasing all project in 1-2 phone booth for 1 week. Space is to be decided.
+Showcasing all project in 1-2 phone booth for 1 week. Space is to be decided... Also it is possible that part of us can do an outdoor show!
 
 **9: Spring Show ...**
 
