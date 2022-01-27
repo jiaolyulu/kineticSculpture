@@ -30,5 +30,5 @@ This club is run by Lulu  [office hour, I can help with fusion 360](https://cale
 
 Thanks for the support from Danniel Rozin, David Rios & ITP floor.
 
-Thanks Jasper Wang and Jason Tse for donating motors.
+Thanks Jasper Wang and [Jason Tse](https://jasontsemf.github.io/index.html) for donating motors.
 
