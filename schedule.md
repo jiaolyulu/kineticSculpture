@@ -66,3 +66,11 @@ talk about the final project
 Showcasing all project in 1-2 phone booth for 1 week.
 
 **9: Spring Show ...**
+
+**each Saturday afternoon when we are not meeting, I would be working on my own kinetic project on floor. If you want to work together please come over**
+
+**potential field trip**
+
+[The Shed: Tomás Saraceno: Particular Matter(s)](https://theshed.org/program/227-tomas-saraceno-particular-matter-s)
+
+[MaterialConnexion](https://materialconnexion.com/)
