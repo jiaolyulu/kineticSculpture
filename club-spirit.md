@@ -50,3 +50,35 @@ SCULPTURE RACING is the focus of a protest against the new political conservatis
 SCULPTURE RACING is an art of social-aesthetic dialectics:
 
 Ultimately the “Art of Sculpture Racing” per se will not reside in individual art objects—not even in individual sculpture races—but rather….
+
+### Pond Art Club
+
+![pond art club's testimony for what they believe](/images/池社.jpg)
+
+艺术是一个池
+
+我们的生存有赖于碳水化合物
+
+不是想要这样才这样
+
+而是不得不这样才这样
+
+……
+
+我们渴望恰当的净化
+
+我们的思维是流动的、模糊的。
+
+……
+
+有谁见过理性的冲动?
+
+“浸入”的瞬间令人陶醉。
+
+复苏的瞬间大彻大悟。
+
+……
+
+结果是次要的
+
+种子在不断发芽。
