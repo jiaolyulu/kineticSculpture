@@ -16,6 +16,7 @@ Visiting David Rios's Office
 For next Meeting: Share one piece of work / one artist that could show your field of interest related to this club. If you want to do a final project, think about the Final Project and share the idea next time.
 
 **3: Feb, 19, 2022, Automata and its Mechanism, Play with Mechanism using wires and cardboard**
+![image of an automata which is a machine full of mechanical moving part to write and draw something. The machine is made into the shape of a little boy](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmymodernmet.com%2Fjaquet-droz-automata%2F&psig=AOvVaw1P0ys0YcJurLUxoD5nGU63&ust=1643395472882000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLjmrrXL0vUCFQAAAAAdAAAAABAJ)
 
 [slide Automata](https://docs.google.com/presentation/d/11pqmIhH43Y5V3ufvG02QRKbX3dsfqv2rV_EwonJ81w8/edit?usp=sharing)
 
@@ -67,9 +68,9 @@ Showcasing all project in 1-2 phone booth for 1 week.
 
 **9: Spring Show ...**
 
-**each Saturday afternoon when we are not meeting, I would be working on my own kinetic project on floor. If you want to work together please come over**
+**10. each Saturday afternoon when we are not meeting, I would be working on my own kinetic project on floor. If you want to work together please come over**
 
-**potential field trip**
+**11. very potential field trip**
 
 [The Shed: Tomás Saraceno: Particular Matter(s)](https://theshed.org/program/227-tomas-saraceno-particular-matter-s)
 
