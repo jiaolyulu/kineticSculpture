@@ -28,7 +28,10 @@ Prompt: Soft Move.
 #### We are...
 This club is run by Lulu  [office hour, I can help with fusion 360](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJOTTdyTkx0TXhPfGRlZmF1bHR8ZTczNmY5OWYzNGQ3ODMwMjQ4NGVjY2Y4YjMwMTBhYzA)
 
-Thanks for the support from Daniel Rozin, David Rios & ITP floor.
+Thanks for the support from 
+#### Daniel Rozin, David Rios & ITP floor.
 
-Thanks Jasper Wang and [Jason Tse](https://jasontsemf.github.io/index.html) for donating motors.
+Thanks 
+#### Jasper Wang and [Jason Tse](https://jasontsemf.github.io/index.html) 
+for donating motors.
 
