@@ -1,4 +1,4 @@
-#### Schedule of Meeting
+### Schedule of Meeting
 ![Image about the content of this club](images/coverimage.gif)
 
 **1: Jan, 29, 2022, 1:00 pm - 2:30 pm, Intro to Kinect Sculpture Club**

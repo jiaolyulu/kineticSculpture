@@ -11,7 +11,7 @@ What is it?
 First of all, it is not using kinect!
 
 
-#### Project Requirement
+### Project Requirement
 Prompt: Soft Move.
 
 1: Using Motor(all kinds of motors, pneumatic or water pump counts)
@@ -25,13 +25,10 @@ Prompt: Soft Move.
 5: No matrix of motors (It is kind of difficult to do it in a small club, go for Digifab if you want to do that) unless ...
 
 
-#### We are...
+### We are...
 This club is run by Lulu  [office hour, I can help with fusion 360](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJOTTdyTkx0TXhPfGRlZmF1bHR8ZTczNmY5OWYzNGQ3ODMwMjQ4NGVjY2Y4YjMwMTBhYzA)
 
-Thanks for the support from 
-#### Daniel Rozin, David Rios & ITP floor.
+Thanks for the support from **Daniel Rozin, David Rios** & ITP floor.
 
-Thanks 
-#### Jasper Wang and [Jason Tse](https://jasontsemf.github.io/index.html) 
-for donating motors.
+Thanks **Jasper Wang and [Jason Tse](https://jasontsemf.github.io/index.html)** for donating motors.
 
