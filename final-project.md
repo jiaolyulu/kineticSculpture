@@ -7,6 +7,6 @@ Prompt: Soft Move.
 
 3: Encourage explore Mechanism or Material
 
-4: Can work well without maintainance for 1 week
+4: Can work well for 1 week
 
 5: No matrix of motors (It is kind of difficult to do it in a small club, go for Digifab if you want to do that)
