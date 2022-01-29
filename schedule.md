@@ -11,11 +11,11 @@ There are so so so many great kinetic artists. Here is a list of artists that I 
 
 If you want to receive emails about this club meeting please ***[fill in your email here](https://docs.google.com/spreadsheets/d/1_8TiYV4YC-upCKt304OQojFMGG0DDho1HfJRl6GY3YE/edit?usp=sharing)***!
 
-[What are you more interested in?](https://forms.gle/UbcpoNU4TqCdwTEP8)
+For next Meeting: We would talk about [Slide: Kinetic Art That we have seen](https://docs.google.com/presentation/d/1mZE3s1pjGkISQD-sEvAQ-doHM36Kzi36h_v48b8yb3M/edit?usp=sharing). Add slides to it and recall all the feelings about that exhibition.
 
 **2: Feb, 11, 2022, 1:00 pm - 2:30 pm, Kinetic Art, a visit to David Rios's Office**
 
-[Slide: Kinetic Art](https://docs.google.com/presentation/d/1mZE3s1pjGkISQD-sEvAQ-doHM36Kzi36h_v48b8yb3M/edit?usp=sharing), lulu would like to share pieces of artwork that blow her mind, and I want you to share your experience too.
+[Slide: Kinetic Art That we have seen](https://docs.google.com/presentation/d/1mZE3s1pjGkISQD-sEvAQ-doHM36Kzi36h_v48b8yb3M/edit?usp=sharing), lulu would like to share pieces of artwork that blow her mind, and I want you to share your experience too.
 
 Visiting David Rios's Office
 
@@ -33,7 +33,7 @@ Alexander Calder's early practice... wire
 
 [MotionGenPro](http://motiongenpro.appspot.com/)  generate some linakge and lever mechanism using this online tool
 
-[Slide for Sharing pieces of work you like](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
+[Slide for Sharing your interest or project](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 
 talk about the final project
 
@@ -59,7 +59,7 @@ Download the example files using this [link]
 
 a demo in Fusion 360
 
-[Slide for Sharing pieces of work you like](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
+[Slide for Sharing your interest or project](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 talk about the final project
 
 **6: Mar, 26, 2022, 1:00 pm - 2:30 pm, Generative Design, Guest Speaker**
@@ -68,7 +68,7 @@ Maybe there is a field trip before this session
 
 [Slide: Material in kinetic art](https://docs.google.com/presentation/d/1C8GwCTfussdMojRNWRNiwoKI-sx_cPrYeFUIp9d8Z1M/edit?usp=sharing)
 
-[Slide for Sharing pieces of work you like](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
+[Slide for Sharing your interest or project](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 talk about the final project
 
 **7: Apr 2, 2022, 1:00 pm - 2:30 pm, Tips for finishing a project** 
