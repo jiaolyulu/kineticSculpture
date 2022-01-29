@@ -93,4 +93,12 @@ Showcasing all project in 1-2 phone booth for 1 week. Space is to be decided... 
 
 [MaterialConnexion](https://materialconnexion.com/)
 
-If you want to do one of the club meeting together with lulu, please talk to lulu.
+
+### Questions... that lulu has
+
+Why it is called Kinetic Sculpture Club not Kinetic Art?
+
+What it means for Kinetic Art during COVID?
+
+I want to learn from you! If you want to do one of the club meeting together with lulu, please talk to lulu.
+
