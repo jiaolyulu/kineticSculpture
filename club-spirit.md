@@ -25,14 +25,23 @@ this extraordinary little doll is actually a self-operating machine that's belie
 [![World Sculpture Racing Society related Video](http://www.sculptureracing.org/wp-content/uploads/2014/12/WSR.jpg)](https://www.youtube.com/watch?v=DJpq765HIBE)
 
 SCULPTURE RACING IS FUN
+
 SCULPTURE RACING IS SERIOUS
+
 SCULPTURE RACING IS HIGHBROW ART
+
 SCULPTURE RACING IS KITSCH
+
 SCULPTURE RACING IS ABSURD
+
 SCULPTURE RACING IS PROFOUND
+
 SCULPTURE RACING IS OBVIOUS
+
 SCULPTURE RACING IS PARADOXICAL
+
 SCULPTURE RACING IS A FAD
+
 SCULPTURE RACING IS AN ENDURING CONTRIBUTION TO THE HISTORY OF WESTERN CIVILIZATION
 
 SCULPTURE RACING is kinetic art in which both artwork and mover are perceived as one; sculpture races are dynamic groupings of art objects and personalities
