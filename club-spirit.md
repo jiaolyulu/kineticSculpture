@@ -12,9 +12,13 @@ this extraordinary little doll is actually a self-operating machine that's belie
 4. We love to play and observe motion.
 5. We acknowledge that the motion of matter is the basics of our world.
 6. Motion is honest, it can not lie
-7. (each person will contribute at least one sentence to it)
-
-
+7. The world moves, why shouldn't art (Danny)
+8. Movement is a form of capturing reality (Etienne Jules Marey / aike)
+9. Kinetic sculptures shape itself (Ziwei)
+10. always break something (Angelo)
+11. I don’t have a sentence but I have an idea (Stela)
+12. Kinetic impressionism. Capturing reality/ truth beyond visual realism via movement (aike)
+13.
 
 ### World Sculpture Racing Society
 
