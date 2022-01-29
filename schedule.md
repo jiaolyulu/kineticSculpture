@@ -19,7 +19,7 @@ For next Meeting: We would talk about [Slide: Kinetic Art That we have seen](htt
 
 Visiting David Rios's Office
 
-For next Meeting: Share one piece of work / one artist that could show your field of interest related to this club. If you want to do a final project, think about the Final Project and share the idea next time.
+For next Meeting: Share one piece of work / one artist that could show your field of interest related to this club. If you want to do a final project, think about the Final Project and share the idea next time. [Slide for Sharing your interest or project](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 
 **3: Feb, 19, 2022, 1:00 pm - 3:30 pm, Automata and its Mechanism, Play with Mechanism using wires and cardboard**
 ![image of an automata which is a machine full of mechanical moving part to write and draw something. The machine is made into the shape of a little boy](images/clubSpiritAutomata1.gif)
