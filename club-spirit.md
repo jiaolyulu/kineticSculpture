@@ -6,18 +6,18 @@ this extraordinary little doll is actually a self-operating machine that's belie
 
 
 ### Club Spirit
-1. We are not dumb mechanics. We are trying to bring the softness and tenderness in ourselves to those movements. Those engineers are admirable.
-2. Movement could bring a sculpture a second life.
-3. Physical movement and virtual movement is different. We love to play with the limitation of physical things.
-4. We love to play and observe motion.
-5. We acknowledge that the motion of matter is the basics of our world.
-6. Motion is honest, it can not lie
+1. We are not dumb mechanics. We are trying to bring the softness and tenderness in ourselves to those movements. Those engineers are admirable. (lulu)
+2. Movement could bring a sculpture a second life. (lulu)
+3. Physical movement and virtual movement is different. We love to play with the limitation of physical things. (lulu)
+4. We love to play and observe motion. (lulu)
+5. We acknowledge that the motion of matter is the basics of our world. (lulu)
+6. Motion is honest, it can not lie (lulu)
 7. The world moves, why shouldn't art (Danny)
-8. Movement is a form of capturing reality (Etienne Jules Marey / aike)
+8. Movement is a form of capturing reality (Etienne Jules Marey / Aike)
 9. Kinetic sculptures shape itself (Ziwei)
 10. always break something (Angelo)
-11. I don’t have a sentence but I have an idea (Stela)
-12. Kinetic impressionism. Capturing reality/ truth beyond visual realism via movement (aike)
+11. I don’t have a sentence but I have an idea (Stela, inspired by Suraj)
+12. Kinetic impressionism. Capturing reality/ truth beyond visual realism via movement (Aike)
 13.
 
 ### World Sculpture Racing Society
