@@ -3,6 +3,8 @@
 
 **1: Jan, 29, 2022, 1:00 pm - 2:30 pm, Intro to Kinect Sculpture Club**
 
+## [zoom](https://nyu.zoom.us/j/9263136647) 
+
 [Slide](https://docs.google.com/presentation/d/14Gx4rb5BBoBIqE4TX549-QRHddT8LkuYYS29SPru7Ak/edit?usp=sharing)  introduce what is Kinetic Sculpture, What we made and schedule and club spirit.
 
 There are so so so many great kinetic artists. Here is a list of artists that I found. [List](https://www.notion.so/30e6a2345652415abdf82babb003ed84?v=eab0870d39d64d0aa472fc74f6e8c2e6) **!!!! Important!!!! Don't try to look at more than 10 artists at once!!!!**
@@ -82,6 +84,9 @@ talk about the final project
 **8: Apr 16 - Apr 23, 2022**
 
 Showcasing all project in 1-2 phone booth for 1 week. Space is to be decided... Also it is possible that part of us can do an outdoor show!
+
+[Fix the machine every day](https://youtu.be/-ORD1pd3Nfw) starting from 5:00
+
 
 **9: Spring Show ...**
 
