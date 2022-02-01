@@ -23,6 +23,10 @@ For next Meeting: Share one piece of work / one artist that could show your fiel
 
 **Feb 18th (Friday Afternoon) from 1:30 pm - 3:30 pm Field Trip to Material Connexion**
 
+[Material Connexion Website](https://materialconnexion.com/)
+
+we would try to imagine how we make use of the kinetic movement of light, motors to bring up a feeling from those materials. 
+
 Due to COVID, the number of people for one visit is limited to 6 people. Material Connexion would need your names for reservation. Please reply to this email or contact me if you are interested.
 
 Also, if you are just interested in visiting the museum but are not available at that time, maybe we can form a second group to visit there!!
