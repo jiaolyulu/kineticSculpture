@@ -21,6 +21,12 @@ Visiting David Rios's Office
 
 For next Meeting: Share one piece of work / one artist that could show your field of interest related to this club. If you want to do a final project, think about the Final Project and share the idea next time. [Slide for Sharing your interest or project](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 
+**Feb 18th (Friday Afternoon) from 1:30 pm - 3:30 pm Field Trip to Material Connexion**
+
+Due to COVID, the number of people for one visit is limited to 6 people. Material Connexion would need your names for reservation. Please reply to this email or contact me if you are interested.
+
+Also, if you are just interested in visiting the museum but are not available at that time, maybe we can form a second group to visit there!!
+
 **3: Feb, 19, 2022, 1:00 pm - 3:30 pm, Automata and its Mechanism, Play with Mechanism using wires and cardboard**
 ![image of an automata which is a machine full of mechanical moving part to write and draw something. The machine is made into the shape of a little boy](images/clubSpiritAutomata1.gif)
 this extraordinary little doll is actually a self-operating machine that's believed by some to be one of the oldest examples of a computer. Known as “The Writer,”.
