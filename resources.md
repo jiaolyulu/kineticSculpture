@@ -1,5 +1,9 @@
 ### a collection of resources
 
+#### Kinetic Artist
+
+[List of kinetic artists](https://www.notion.so/30e6a2345652415abdf82babb003ed84?v=eab0870d39d64d0aa472fc74f6e8c2e6) **!!!! Important!!!! Don't try to look at more than 10 artists at once!!!!**
+
 #### Mechanisms
 
 (from ITP Fabrication Site)
@@ -23,3 +27,4 @@
 [Compliant Mechanisms](https://www.compliantmechanisms.byu.edu/maker-resources)
 
 [Flexures](https://github.com/amymakesstuff/flexure-fun)
+
