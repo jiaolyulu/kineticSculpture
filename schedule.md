@@ -32,7 +32,9 @@ Due to COVID, the number of people for one visit is limited to 6 people. Materia
 Also, if you are just interested in visiting the museum but are not available at that time, maybe we can form a second group to visit there!!
 
 **3: Feb, 19, 2022, 1:00 pm - 3:30 pm, Automata and its Mechanism, Play with Mechanism using wires and cardboard**
+
 ![image of an automata which is a machine full of mechanical moving part to write and draw something. The machine is made into the shape of a little boy](images/clubSpiritAutomata1.gif)
+
 this extraordinary little doll is actually a self-operating machine that's believed by some to be one of the oldest examples of a computer. Known as “The Writer,”.
 
 [slide Automata](https://docs.google.com/presentation/d/11pqmIhH43Y5V3ufvG02QRKbX3dsfqv2rV_EwonJ81w8/edit?usp=sharing)
@@ -41,7 +43,11 @@ What it means when I watch the feather gently weeps my guitar？Thinking kinetic
 
 Alexander Calder's early practice... wire
 
+![motiongenpro designed mechanism](images/motiongen.gif)
+
 [MotionGenPro](http://motiongenpro.appspot.com/)  generate some linakge and lever mechanism using this online tool
+
+![prototype of 4 bar linkage and The Holy 11 numbers by Theo Janson](images/cardboard.gif)
 
 [Slide for Sharing your interest or project](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 
@@ -91,9 +97,9 @@ sheet metal bending
 
 talk about the final project
 
-**8: Apr 16 - Apr 23, 2022**
+**8: May 5 - May 9, 2022**
 
-Showcasing all project in 1-2 phone booth for 1 week. Space is to be decided... Also it is possible that part of us can do an outdoor show!
+Showcasing all project in ROOM 404 for 1 week.
 
 [Fix the machine every day](https://youtu.be/-ORD1pd3Nfw) starting from 5:00
 
