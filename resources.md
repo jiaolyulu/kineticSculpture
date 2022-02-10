@@ -1,10 +1,27 @@
-### a collection of resources
+## a collection of resources
 
-#### Kinetic Artist
+### Kinetic Artist
 
 [List of kinetic artists](https://www.notion.so/30e6a2345652415abdf82babb003ed84?v=eab0870d39d64d0aa472fc74f6e8c2e6) **!!!! Important!!!! Don't try to look at more than 10 artists at once!!!!**
 
-#### Mechanisms
+
+### Different kinds of Actuators
+
+**Nitinol smart metal wire**
+
+[Ido Mohar](https://youtu.be/Pb9G9Fh9pkw)
+
+[Jingle Gao](https://youtu.be/0Ng7JC64eKU)
+
+[PattenStudio](https://www.pattenstudio.com/works/lift/)
+
+**Programmable Air**
+
+[Website](https://www.programmableair.com/)
+
+Our ER has two of them to check out.
+
+### Mechanisms
 
 (from ITP Fabrication Site)
 
