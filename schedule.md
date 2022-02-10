@@ -15,11 +15,15 @@ For next Meeting: We would talk about [Slide: Kinetic Art That we have seen](htt
 
 **2: Feb, 11, 2022, 1:00 pm - 2:30 pm, Kinetic Art, a visit to David Rios's Office**
 
-[Slide: Kinetic Art That we have seen](https://docs.google.com/presentation/d/1mZE3s1pjGkISQD-sEvAQ-doHM36Kzi36h_v48b8yb3M/edit?usp=sharing), lulu would like to share pieces of artwork that blow her mind, and I want you to share your experience too.
-
 Visiting David Rios's Office
 
-For next Meeting: Share one piece of work / one artist that could show your field of interest related to this club. If you want to do a final project, think about the Final Project and share the idea next time. [Slide for Sharing your interest or project](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
+Field Trip.
+
+[Slide: Kinetic Art That we have seen](https://docs.google.com/presentation/d/1mZE3s1pjGkISQD-sEvAQ-doHM36Kzi36h_v48b8yb3M/edit?usp=sharing), lulu would like to share pieces of artwork that blow her mind, and I want you to share your experience too.
+
+
+
+Introduce next meeting.
 
 **Feb 18th (Friday Afternoon) from 1:30 pm - 3:30 pm Field Trip to Material Connexion**
 
@@ -78,7 +82,7 @@ a demo in Fusion 360
 [Slide for Sharing your interest or project](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 talk about the final project
 
-**6: Mar, 26, 2022, 1:00 pm - 2:30 pm, Controlling Stepper Motors, Generative Design, Guest Speaker**
+**6: Mar, 26, 2022, 1:00 pm - 2:30 pm, Controlling Stepper Motors, Other actuators, Generative Design, Guest Speaker**
 
 Maybe there is a field trip before this session
 
