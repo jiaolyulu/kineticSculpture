@@ -65,7 +65,7 @@ For next Meeting: Share pieces of work you like... or your past kinetic project
 
 [slide](https://docs.google.com/presentation/d/1dfep1qj0_mXK4wCVpKLdVQtoGF9ODLN1W1-e40YU5M0/edit?usp=sharing) Motor control
 
-**5: Mar, 5, 2022, 1:00 pm - 2:30 pm, Fusion 360 Simulation of Mechanism, Understanding gears, A glance at Mcmaster**
+**5: Mar, 5, 2022, 1:00 pm - 2:30 pm, Fusion 360 Simulation of Mechanism, Understanding gears**
 
 [Fusion 360 Download](https://www.autodesk.com/products/fusion-360/overview)
 
@@ -82,7 +82,9 @@ a demo in Fusion 360
 [Slide for Sharing your interest or project](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 talk about the final project
 
-**6: Mar, 26, 2022, 1:00 pm - 2:30 pm, Controlling Stepper Motors, Other actuators, Generative Design, Guest Speaker**
+**6: Mar, 19, 2022, 1:00 pm - 2:30 pm Fusion 360 Basic Modeling**
+
+**7: Mar, 26, 2022, 1:00 pm - 2:30 pm, Controlling Stepper Motors, Other actuators, Guest Speaker**
 
 Maybe there is a field trip before this session
 
@@ -91,7 +93,11 @@ Maybe there is a field trip before this session
 [Slide for Sharing your interest or project](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 talk about the final project
 
-**7: Apr 2, 2022, 1:00 pm - 2:30 pm, Tips for finishing a project** 
+**8: Apr 2, 2022, 1:00 pm - 2:30 pm, Motor mount, Mcmaster** 
+
+A glance at Mcmaster
+
+**9: Apr 9, 2022, 1:00 pm - 2:30 pm, Tips for finishing a project** 
 
 Slide for better finishing a project
 
@@ -101,18 +107,17 @@ sheet metal bending
 
 talk about the final project
 
-**8: May 5 - May 9, 2022**
+**10: May 5 - May 9, 2022**
 
 Showcasing all project in ROOM 404 for 1 week.
 
 [Fix the machine every day](https://youtu.be/-ORD1pd3Nfw) starting from 5:00
 
+**11: Spring Show ...**
 
-**9: Spring Show ...**
+**12. each Saturday afternoon when we are not meeting, I would be working on my own kinetic project on floor. If you want to work together please come over**
 
-**10. each Saturday afternoon when we are not meeting, I would be working on my own kinetic project on floor. If you want to work together please come over**
-
-**11. very potential field trip**
+**13. very potential field trip**
 
 [The Shed: Tomás Saraceno: Particular Matter(s)](https://theshed.org/program/227-tomas-saraceno-particular-matter-s)
 
