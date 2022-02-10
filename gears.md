@@ -39,10 +39,10 @@ Question: why music boxes use worm gears?
 
 transmit rotational movement from A to B. 
 
-**Task Two:
-**
+**Task Two:**
+
 same shaft, one disk is rotating clockwise while another one is rotating counter-clockwise
 
 
-Credit
+Credit: 
 wormwheel images credit to [here](https://youtu.be/pfRFXhXQRgA) [worm Gear](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Worm_Gear.gif/220px-Worm_Gear.gif)
