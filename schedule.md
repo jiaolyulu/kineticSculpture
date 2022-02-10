@@ -55,7 +55,7 @@ talk about the final project
 
 For next Meeting: Share pieces of work you like... or your past kinetic project
 
-**4: Feb, 26, 2022, 1:00 pm - 2:30 pm, Understanding Motors, Controlling High current devices, Controlling DC motors and Linear Actuators, Controlling Stepper Motors**
+**4: Feb, 26, 2022, 1:00 pm - 2:30 pm, Understanding Motors, Controlling High current devices, Controlling DC motors and Linear Actuators**
 
 [Actuators and Examples](https://www.notion.so/d680aeca8e5a4f519d589a9c485d8ecc?v=69c9a7fb00ae4047a855410953f721f3)
 
@@ -78,7 +78,7 @@ a demo in Fusion 360
 [Slide for Sharing your interest or project](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 talk about the final project
 
-**6: Mar, 26, 2022, 1:00 pm - 2:30 pm, Generative Design, Guest Speaker**
+**6: Mar, 26, 2022, 1:00 pm - 2:30 pm, Controlling Stepper Motors, Generative Design, Guest Speaker**
 
 Maybe there is a field trip before this session
 
