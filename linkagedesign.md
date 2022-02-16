@@ -29,9 +29,15 @@ Why?
 
 [Grashof's Law](https://youtu.be/h8bz4ni6mdY)
 
-### RPR
+Four bar linakge is a RRRR
 
-![RPR](images/linkage/RPR.gif)
+### RPRR
+
+![RPRR](images/linkage/RPRR.gif)
+
+### RRRP
+
+![RRRP](images/linkage/RRRP.gif)
 
 ### **Reverse Linkage**
 
