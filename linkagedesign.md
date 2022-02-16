@@ -31,6 +31,12 @@ Why?
 
 Four bar linakge is a RRRR
 
+What about RRRRR?
+
+Add another driven R.
+
+![RRRRR](images/linkage/2barbetween.gif)
+
 ### RPRR
 
 ![RPRR](images/linkage/RPRR.gif)
