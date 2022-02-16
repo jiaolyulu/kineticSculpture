@@ -8,7 +8,7 @@ Moving Pivot
 
 R
 
-D
+P
 
 Degree of Freedom
 
@@ -19,11 +19,19 @@ Coupler
 
 ### **Four Bar Linkage**
 
+![full revolution 4 bar](images/linkage/fourbarfull.gif)
 
+![not full revolution 4 bar](images/linkage/fourbarnotfull.gif)
 
 [Four Bar Linkage Explain](https://youtu.be/Vh8r_Cpfb8Q)
 
+Why?
+
 [Grashof's Law](https://youtu.be/h8bz4ni6mdY)
+
+### RPR
+
+![RPR](images/linkage/RPR.gif)
 
 ### **Reverse Linkage**
 
