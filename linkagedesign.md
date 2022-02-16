@@ -55,11 +55,13 @@ RRRPRRR
 
 ![butterfly](images/linkage/butterfly.gif)
 
-### 2 bar between 2 driven points
+RPRR+RRRR
+
+![cube](images/linkage/movecube.gif)
 
 ![2 bar between 2 driven points](images/linkage/2barbetween.gif)
 
-### **Reverse Linkage**
+### **Using lever**
 
 REVERSE MOTION LINKAGE
 
@@ -71,6 +73,8 @@ PARALLEL MOTION LINKAGE
 ![](https://technologystudent.com/cams/linkag2a.gif)
 
 photos credit [here](https://technologystudent.com/cams/link1.htm)
+
+
 
 ### **The Peaucellier–Lipkin linkage**
 
