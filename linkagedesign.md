@@ -1,8 +1,10 @@
 ### **Terms to make us sounds cool**
 
-Fixed point
+Fixed pivot
 
-Pivot
+Moving Pivot
+
+![pivot](http://wiki.dtonline.org/images/2/2f/FourBarChain.png)
 
 R
 
