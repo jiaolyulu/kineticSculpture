@@ -39,6 +39,20 @@ Four bar linakge is a RRRR
 
 ![RRRP](images/linkage/RRRP.gif)
 
+### Combination
+
+RRRR+RRRP
+
+![fourbar and slide](images/linkage/fourbar&slide.gif)
+
+RRRPRRR
+
+![butterfly](images/linkage/butterfly.gif)
+
+### 2 bar between 2 driven points
+
+![2 bar between 2 driven points](images/linkage/2barbetween.gif)
+
 ### **Reverse Linkage**
 
 REVERSE MOTION LINKAGE
