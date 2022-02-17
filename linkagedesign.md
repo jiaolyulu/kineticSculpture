@@ -1,3 +1,5 @@
+I love Motiongen.. it saves me a lot of time to play with 
+
 ### **Terms to make us sounds cool**
 
 Fixed pivot
@@ -28,6 +30,9 @@ Coupler
 Why?
 
 [Grashof's Law](https://youtu.be/h8bz4ni6mdY)
+
+
+### if we made some small adaptations to four bar linkages
 
 Four bar linakge is a RRRR
 
@@ -72,7 +77,14 @@ PARALLEL MOTION LINKAGE
 
 ![](https://technologystudent.com/cams/linkag2a.gif)
 
-photos credit [here](https://technologystudent.com/cams/link1.htm)
+
+
+
+### Artwork Analyse
+
+![bob potts pursuit](https://vimeo.com/99242581)
+
+Look at the video and analyse the linkage system.. rebuild it in Motiongenpro.
 
 
 
@@ -91,3 +103,8 @@ In Wikipedia there is [Mathematical proof of concept](https://en.wikipedia.org/w
 
 [STRANDBEEST](https://youtu.be/LewVEF2B_pM) by Artist Theo Jansen
 
+### Linkage can draw all the curves ...
+
+![中文视频 sorry I didn't find a better video in English](https://www.bilibili.com/video/BV18h411W78v?share_source=copy_web)
+
+reverse and parallel photos credit [here](https://technologystudent.com/cams/link1.htm)
