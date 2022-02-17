@@ -2,6 +2,12 @@
 
 This is more about a poetic expression of movement. We would make things into a kinetic sculpture. It is also a class based on fusion 360. The final project is to make a small exhibtion on floor and make things move for at least a week. Projects to be expected, a flower that would bloosom mechanically.. a rotating light installation.. a planetary gear installation.. 
 
+It would be a class more focused on motors, not so much about too complicated mechanism.
+
+It would be a class where students would be able to combine the final with many other assignments from other classes.
+
+I am very worried about that students would have a high expectation and go too crazy and ambitious for a simply 2 credit class. So again. I want to just provide a standard for mechanical components. So the main focus is to make things move while tells a poetic story. 
+
 ## Week1: 
 
 DC motor control (linear actuator)

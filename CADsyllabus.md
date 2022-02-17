@@ -46,7 +46,7 @@ Assignment: Make an assembled model in fusion for final project
 
 ## week6:
 
-How to go beyond Lasercut? Components we might need in a more dedveloped kinetic movement
+How to go beyond Lasercut? Components we might need in a more developed kinetic movement
 
 ## week7:
 
