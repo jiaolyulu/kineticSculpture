@@ -6,17 +6,21 @@ Every students would be given the same motor and the same battery. It is recomme
 
 This would be a class that students would need to change their design in Fusion 360 and lasercut multiple times in order to build a moving object. So I think it is actually a CAD class.
 
-It is a class that would allow hotglue, duck tape. The key point is to make things move.
+It is a class that would allow hotglue, duck tape. The key point is to make things move. They would experiment with complicated mechanical movements using the most simple technique, lasercutting. It is a class that would make students more comfortable with cad and mechanical simulation. However, it would strictly limit what the output is. 
 
 ## week1:
 
 I would buy some lasercut toys, let students play with it while introducing this class. 
+
+![image of an example of a toy](https://cdn.shopify.com/s/files/1/0559/6587/6418/products/87fc6e90a54fa2e5a47ecdecf536d30b_1080x_c662dd4d-94eb-46f5-97eb-33e6e9d798cc_1024x1024@2x.jpg?v=1635169350)
 
 ## week2:
 
 Use Motiongenpro to understand linkages, During class we would design linkage system and do a cardboard prototype together.
 
 Assignment: Using linkages to make a kinetic "image" that could fit into a given size frame.
+
+![image of a linkage image.. maybe](https://i.ytimg.com/vi/8b1NXslviYE/maxresdefault.jpg)
 
 ## week3:
 
