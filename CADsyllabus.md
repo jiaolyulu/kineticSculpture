@@ -36,11 +36,11 @@ Assignment: in a group of 2, think about final idea.
 
 Share Final Ideas.
 
-Assignment: Sketch and start 3D modeling for final projects 
+Assignment: Sketch and start 3D modeling for final projects (individual meeting with each group to make sure the project is doable)
 
 ## week5: 
 
-Assemble joints in Fusion 360. How to do a slide, a rotary joint with simple lasercut prototype.. How different gears would work? 
+Assemble joints in Fusion 360. How to do a slide, a rotary joint with simple lasercut prototype.. How different gears would work? (I think I need to do more CAD mechanical toys myself... more 3D modeling)
 
 Assignment: Make an assembled model in fusion for final project
 
