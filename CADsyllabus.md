@@ -51,3 +51,5 @@ How to go beyond Lasercut? Components we might need in a more developed kinetic 
 ## week7:
 
 do the actual racing. Critique. Share kinetic Artist's story. (Hopefully could invite some artists for critique)
+
+Field Trip: Morris Museum

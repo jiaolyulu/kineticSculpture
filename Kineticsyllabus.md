@@ -51,3 +51,5 @@ The ambiguity and randomness of movements.
 ## Week 7:
 
 Presentation, install works in a phone booth for a week and they need to repair it every day. Talk about movements that software can not simulate.
+
+Field trip: Material Connexion...
