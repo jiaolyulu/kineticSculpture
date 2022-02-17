@@ -6,7 +6,7 @@ Fixed pivot
 
 Moving Pivot
 
-![pivot](http://wiki.dtonline.org/images/2/2f/FourBarChain.png)
+![pivot](https://technologystudent.com/cams/linkag1a.gif)
 
 R
 
