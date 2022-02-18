@@ -1,6 +1,10 @@
-I love Motiongen.. it saves me a lot of time to play with 
+I love [Motiongen](http://motiongenpro.appspot.com/).. it saves me a lot of time to play with 
+
+
 
 ## **Terms.. The code of linakges**
+
+---
 
 - **Fixed pivot and Moving Pivot**
 
@@ -22,7 +26,10 @@ Degree of Freedom
 
 <p>&nbsp;</p>
 
+
 ## **Four Bar Linkage**
+
+---
 
 ![full revolution 4 bar](images/linkage/fourbarfull.gif)
 
@@ -94,6 +101,8 @@ Look at the video and analyse the linkage system.. rebuild it in Motiongenpro.
 
 ## Famous linkage Examples...
 
+---
+
 ### **The Peaucellier–Lipkin linkage**
 
 The first planar linkage capable of transforming rotary motion into perfect straight-line motion
@@ -112,5 +121,7 @@ In Wikipedia there is [Mathematical proof of concept](https://en.wikipedia.org/w
 ### Linkage can draw all the curves ...
 
 ![中文视频 sorry I didn't find a better video in English](https://www.bilibili.com/video/BV18h411W78v?share_source=copy_web)
+
+---
 
 reverse and parallel photos credit [here](https://technologystudent.com/cams/link1.htm)
