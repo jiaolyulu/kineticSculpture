@@ -1,25 +1,28 @@
 I love Motiongen.. it saves me a lot of time to play with 
 
-### **Terms to make us sounds cool**
+## **Terms.. The code of linakges**
 
-Fixed pivot
-
-Moving Pivot
+- **Fixed pivot and Moving Pivot**
 
 ![pivot](https://technologystudent.com/cams/linkag1a.gif)
 
-R
+- **R**
 
-P
+the revolute, or hinged
+
+- **P**
+
+the prismatic, or sliding
 
 Degree of Freedom
 
-Crank
+- **Crank and Coupler**
 
-Coupler
+![Crank&&Coupler](https://www.brainbell.com/creo/images/image001.jpg)
 
+<p>&nbsp;</p>
 
-### **Four Bar Linkage**
+## **Four Bar Linkage**
 
 ![full revolution 4 bar](images/linkage/fourbarfull.gif)
 
@@ -31,8 +34,9 @@ Why?
 
 [Grashof's Law](https://youtu.be/h8bz4ni6mdY)
 
+<p>&nbsp;</p>
 
-### if we made some small adaptations to four bar linkages
+**if we made some small adaptations to four bar linkages**
 
 Four bar linakge is a RRRR
 
@@ -50,17 +54,17 @@ Add another driven R.
 
 ![RRRP](images/linkage/RRRP.gif)
 
-### Combination
+**Combination**
 
-RRRR+RRRP
+### RRRR+RRRP
 
 ![fourbar and slide](images/linkage/fourbar&slide.gif)
 
-RRRPRRR
+### RRRPRRR
 
 ![butterfly](images/linkage/butterfly.gif)
 
-RPRR+RRRR
+### RPRR+RRRR
 
 ![cube](images/linkage/movecube.gif)
 
@@ -78,15 +82,17 @@ PARALLEL MOTION LINKAGE
 ![](https://technologystudent.com/cams/linkag2a.gif)
 
 
+<p>&nbsp;</p>
 
+## Artwork Analyse
 
-### Artwork Analyse
-
-![bob potts pursuit](https://vimeo.com/99242581)
+[bob potts pursuit](https://vimeo.com/99242581)
 
 Look at the video and analyse the linkage system.. rebuild it in Motiongenpro.
 
+<p>&nbsp;</p>
 
+## Famous linkage Examples...
 
 ### **The Peaucellier–Lipkin linkage**
 
