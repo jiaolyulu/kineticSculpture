@@ -36,35 +36,35 @@ Why?
 
 <p>&nbsp;</p>
 
-**if we made some small adaptations to four bar linkages**
+### **if we made some small adaptations to four bar linkages**
 
-Four bar linakge is a RRRR
+- Four bar linakge is a **RRRR**
 
-What about RRRRR?
+- **RRRRR**
 
 Add another driven R.
 
 ![RRRRR](images/linkage/2barbetween.gif)
 
-### RPRR
+- **RPRR**
 
 ![RPRR](images/linkage/RPRR.gif)
 
-### RRRP
+- **RRRP**
 
 ![RRRP](images/linkage/RRRP.gif)
 
-**Combination**
+### **Combination**
 
-### RRRR+RRRP
+- **RRRR+RRRP**
 
 ![fourbar and slide](images/linkage/fourbar&slide.gif)
 
-### RRRPRRR
+- RRRPRRR
 
 ![butterfly](images/linkage/butterfly.gif)
 
-### RPRR+RRRR
+- RPRR+RRRR
 
 ![cube](images/linkage/movecube.gif)
 
@@ -72,12 +72,12 @@ Add another driven R.
 
 ### **Using lever**
 
-REVERSE MOTION LINKAGE
+- **REVERSE MOTION LINKAGE**
 
 ![](https://technologystudent.com/cams/linkag1a.gif)
 
 
-PARALLEL MOTION LINKAGE
+- **PARALLEL MOTION LINKAGE**
 
 ![](https://technologystudent.com/cams/linkag2a.gif)
 
