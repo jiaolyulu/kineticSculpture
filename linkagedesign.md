@@ -43,15 +43,13 @@ the prismatic, or sliding
 
 Assignment: Create a four bar linkage! in MotionGen (http://motiongenpro.appspot.com/).
 
-Four bar linkage is everywhere!
-
-[lulu's tic-toking machine](https://www.lulyu.me/work/tictoking)
-
-
-
 ![full revolution 4 bar](images/linkage/fourbarfull.gif)
 
 ![not full revolution 4 bar](images/linkage/fourbarnotfull.gif)
+
+Four bar linkage is everywhere!
+
+[lulu's tic-toking machine](https://www.lulyu.me/work/tictoking)
 
 [Four Bar Linkage Explain](https://youtu.be/Vh8r_Cpfb8Q)
 
