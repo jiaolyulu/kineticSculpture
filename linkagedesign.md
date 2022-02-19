@@ -41,7 +41,9 @@ the prismatic, or sliding
 
 ---
 
-Assignment: Create a four bar linkage! in MotionGen (http://motiongenpro.appspot.com/).
+### **Assignment: **
+
+Create a four bar linkage! in [MotionGen] (http://motiongenpro.appspot.com/).
 
 ![full revolution 4 bar](images/linkage/fourbarfull.gif)
 
