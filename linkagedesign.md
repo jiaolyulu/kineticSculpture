@@ -159,6 +159,7 @@ The first planar linkage capable of transforming rotary motion into perfect stra
 
 In Wikipedia there is [Mathematical proof of concept](https://en.wikipedia.org/wiki/Peaucellier%E2%80%93Lipkin_linkage)
 
+<p>&nbsp;</p>
 
 ### **The Holy 11 numbers**
 
@@ -166,14 +167,21 @@ In Wikipedia there is [Mathematical proof of concept](https://en.wikipedia.org/w
 
 [STRANDBEEST](https://youtu.be/LewVEF2B_pM) by Artist Theo Jansen
 
+<p>&nbsp;</p>
 
 ### **Watt parallel motion**
 
 [![watt steam engine](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Watt_Parallel_Motion_Simulation.gif/440px-Watt_Parallel_Motion_Simulation.gif)](https://en.wikipedia.org/wiki/Parallel_motion)
 
+<p>&nbsp;</p>
+
 ### Other linkage related artwork or examples
 
 [tickling fox](https://www.instagram.com/p/CaCvtcSgvwd/)
+
+[an automaton horse](https://youtu.be/YGoVssO3yEU)
+
+[Archer Automaton](https://youtu.be/YIuBXjywir0)
 
 [a flower clock](https://pin.it/2sREfee)
 
