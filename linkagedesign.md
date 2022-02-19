@@ -1,6 +1,6 @@
 **Our goal of this session:**
 
-[![Bob Potts pursuit](http://www.mbandf.com/_newsletters/140701_MAD27m48/images/down/BobPotts-PursuitTwo_1440.jpg)]((https://vimeo.com/99242581))
+[![Bob Potts pursuit](http://www.mbandf.com/_newsletters/140701_MAD27m48/images/down/BobPotts-PursuitTwo_1440.jpg)](https://vimeo.com/99242581)
 
 **our tool:**
 
@@ -22,7 +22,7 @@ the revolute, or hinged
 
 the prismatic, or sliding
 
-Degree of Freedom
+- Degree of Freedom
 
 - **Crank and Coupler**
 
@@ -78,6 +78,9 @@ Add another driven R.
 - RPRR+RRRR
 
 ![cube](images/linkage/movecube.gif)
+[placing a cube](https://youtu.be/IJASpyZ_vtY)
+
+- 2 bar between 2 driven points
 
 ![2 bar between 2 driven points](images/linkage/2barbetween.gif)
 
