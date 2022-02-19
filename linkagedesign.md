@@ -1,3 +1,16 @@
+## things to say...
+
+---
+
+- our exhibition space is determined.
+
+May 5 - May 9, 2022
+
+Showcasing all project in ROOM 404 for 1 week.
+
+- material connexion
+
+
 **Our goal of this session:**
 
 Nerd Warning!!!
@@ -119,11 +132,20 @@ Add another driven R.
 
 ## Artwork Analyse
 
+---
+
 [bob potts pursuit](https://vimeo.com/99242581)
 
 Look at the video and analyse the linkage system.. rebuild it in Motiongenpro.
 
 <p>&nbsp;</p>
+
+## CARDBOARD time
+
+---
+
+design a linkage system. Then prototype it with cardboard.
+
 
 ## Famous linkage Examples...
 
@@ -149,19 +171,45 @@ In Wikipedia there is [Mathematical proof of concept](https://en.wikipedia.org/w
 
 [![watt steam engine](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Watt_Parallel_Motion_Simulation.gif/440px-Watt_Parallel_Motion_Simulation.gif)](https://en.wikipedia.org/wiki/Parallel_motion)
 
+### Other linkage related artwork or examples
 
+[tickling fox](https://www.instagram.com/p/CaCvtcSgvwd/)
+
+[a flower clock](https://pin.it/2sREfee)
+
+[an ox](https://pin.it/zVMnTIs)
+
+[Tenfold](https://www.core77.com/posts/67529/Ten-Nifty-Linkage-Designs)
+
+<p>&nbsp;</p>
 
 ### other things I found interesting
 
 [Linkage can draw all the curves mathematically... 中文视频 sorry I didn't find a better video in English](https://www.bilibili.com/video/BV18h411W78v?share_source=copy_web)
 
 ---
-[Degree of freedom Formula] (https://en.wikipedia.org/wiki/Degrees_of_freedom_(mechanics))
+[Degree of freedom Formula](https://en.wikipedia.org/wiki/Degrees_of_freedom_(mechanics))
 
 reverse and parallel photos credit [here](https://technologystudent.com/cams/link1.htm)
+
+<p>&nbsp;</p>
 
 ## After Motiongen
 
 ---
 
 How to overcome the nerd power from the interface and be creative?
+
+## things to say...
+
+---
+
+- our exhibition space is determined.
+
+May 5 - May 9, 2022
+
+Showcasing all project in ROOM 404 for 1 week.
+
+- material connexion
+
+- club spirit edit
