@@ -83,7 +83,7 @@ Add another driven R.
 
 - **RRRR+RRRR**
 
-[![6 bar linkage](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Kinematics_of_Machinery_-_Figure_12.jpg/600px-Kinematics_of_Machinery_-_Figure_12.jpg)](https://en.wikipedia.org/wiki/Six-bar_linkage)
+[![6 bar linkage](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rectilinear_Sixbar_Movement.gif/440px-Rectilinear_Sixbar_Movement.gif)](https://en.wikipedia.org/wiki/Six-bar_linkage)
 
 - **RRRR+RRRP**
 
