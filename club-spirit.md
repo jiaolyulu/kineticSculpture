@@ -18,7 +18,9 @@ this extraordinary little doll is actually a self-operating machine that's belie
 10. always break something (Angelo)
 11. I don’t have a sentence but I have an idea (Stela, inspired by Suraj)
 12. Kinetic impressionism. Capturing reality/ truth beyond visual realism via movement (Aike)
-13.
+13. I think it's great(Viola)
+14. A tool that we didn't know we have.(Dave)
+15. linkages change the way we vision our project.(Nick)
 
 ### World Sculpture Racing Society
 
