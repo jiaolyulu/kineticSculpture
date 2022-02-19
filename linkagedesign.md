@@ -130,5 +130,6 @@ In Wikipedia there is [Mathematical proof of concept](https://en.wikipedia.org/w
 [Linkage can draw all the curves mathematically... 中文视频 sorry I didn't find a better video in English](https://www.bilibili.com/video/BV18h411W78v?share_source=copy_web)
 
 ---
+[Degree of freedom Formula] (https://en.wikipedia.org/wiki/Degrees_of_freedom_(mechanics))
 
 reverse and parallel photos credit [here](https://technologystudent.com/cams/link1.htm)
