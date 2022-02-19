@@ -28,7 +28,7 @@ the revolute, or hinged
 
 the prismatic, or sliding
 
-- Degree of Freedom
+- **Degree of Freedom**
 
 - **Crank and Coupler**
 
@@ -40,6 +40,14 @@ the prismatic, or sliding
 ## **Four Bar Linkage**
 
 ---
+
+Assignment: Create a four bar linkage! in MotionGen (http://motiongenpro.appspot.com/).
+
+Four bar linkage is everywhere!
+
+[lulu's tic-toking machine](https://www.lulyu.me/work/tictoking)
+
+
 
 ![full revolution 4 bar](images/linkage/fourbarfull.gif)
 
