@@ -83,6 +83,8 @@ Add another driven R.
 
 - **RRRR+RRRR**
 
+![cancer](https://image.shutterstock.com/image-vector/constellation-cancer-260nw-516818347.jpg)
+
 - **RRRR+RRRP**
 
 ![fourbar and slide](images/linkage/fourbar&slide.gif)
