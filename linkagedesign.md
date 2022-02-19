@@ -1,6 +1,10 @@
-I love [Motiongen](http://motiongenpro.appspot.com/).. it saves me a lot of time to play with 
+**Our goal of this session:**
 
+[![Bob Potts pursuit](http://www.mbandf.com/_newsletters/140701_MAD27m48/images/down/BobPotts-PursuitTwo_1440.jpg)]((https://vimeo.com/99242581))
 
+**our tool:**
+
+I love [Motiongen](http://motiongenpro.appspot.com/).. it saves me a lot of time.
 
 ## **Terms.. The code of linakges**
 
@@ -118,9 +122,9 @@ In Wikipedia there is [Mathematical proof of concept](https://en.wikipedia.org/w
 
 [STRANDBEEST](https://youtu.be/LewVEF2B_pM) by Artist Theo Jansen
 
-### Linkage can draw all the curves ...
+### other things I found interesting
 
-![中文视频 sorry I didn't find a better video in English](https://www.bilibili.com/video/BV18h411W78v?share_source=copy_web)
+[Linkage can draw all the curves mathematically... 中文视频 sorry I didn't find a better video in English](https://www.bilibili.com/video/BV18h411W78v?share_source=copy_web)
 
 ---
 
