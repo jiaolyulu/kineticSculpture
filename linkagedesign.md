@@ -1,10 +1,16 @@
 **Our goal of this session:**
 
+Nerd Warning!!!
+
 [![Bob Potts pursuit](http://www.mbandf.com/_newsletters/140701_MAD27m48/images/down/BobPotts-PursuitTwo_1440.jpg)](https://vimeo.com/99242581)
+
+[![Theo Jansen](https://www.audemarspiguet.com/content/dam/ap/com/stories-art/theo-jansen-strandbeest/hero_1920x839.jpg.transform.apfw.jpg)](https://youtu.be/HSKyHmjyrkA)
 
 **our tool:**
 
 I love [Motiongen](http://motiongenpro.appspot.com/).. it saves me a lot of time.
+
+<p>&nbsp;</p>
 
 ## **Terms.. The code of linakges**
 
@@ -133,3 +139,9 @@ In Wikipedia there is [Mathematical proof of concept](https://en.wikipedia.org/w
 [Degree of freedom Formula] (https://en.wikipedia.org/wiki/Degrees_of_freedom_(mechanics))
 
 reverse and parallel photos credit [here](https://technologystudent.com/cams/link1.htm)
+
+## After Motiongen
+
+---
+
+How to overcome the nerd power from the interface and be creative?
