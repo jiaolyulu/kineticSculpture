@@ -83,8 +83,6 @@ Add another driven R.
 
 - **RRRR+RRRR**
 
-[![6 bar linkage](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Rectilinear_Sixbar_Movement.gif/440px-Rectilinear_Sixbar_Movement.gif)](https://en.wikipedia.org/wiki/Six-bar_linkage)
-
 - **RRRR+RRRP**
 
 ![fourbar and slide](images/linkage/fourbar&slide.gif)
@@ -96,6 +94,7 @@ Add another driven R.
 - **RPRR+RRRR**
 
 ![cube](images/linkage/movecube.gif)
+
 [placing a cube](https://youtu.be/IJASpyZ_vtY)
 
 - 2 bar between 2 driven points
@@ -142,6 +141,13 @@ In Wikipedia there is [Mathematical proof of concept](https://en.wikipedia.org/w
 [a science fiction article about this 11 numbers](https://clarkesworldmagazine.com/theodoridou_02_14/)
 
 [STRANDBEEST](https://youtu.be/LewVEF2B_pM) by Artist Theo Jansen
+
+
+### **Watt parallel motion**
+
+[![watt steam engine](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Watt_Parallel_Motion_Simulation.gif/440px-Watt_Parallel_Motion_Simulation.gif)](https://en.wikipedia.org/wiki/Parallel_motion)
+
+
 
 ### other things I found interesting
 
