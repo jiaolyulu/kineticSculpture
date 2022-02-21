@@ -1,3 +1,21 @@
+## Stepper motor
+
+A typical stepper motor would have 4 wires. Some might have 5 wires or 6 wires. But to use it with our drivers, we can just use 4 wires of the stepper motor.
+
+- 4 wire stepepr motor
+
+
+
+A 5 wire motor might just be a 4 wire motor with a frame-ground connection. 
+
+<img src="https://knowledge.ni.com/servlet/rtaImage?eid=ka00Z0000011GDW&feoid=00N0Z00000HEWRt&refid=0EM0Z000000W8pX" width=400 alt="5 wire stepper motor">
+
+Or it might be a 6 wire with the two center taps tied together.
+
+<img src="https://buildbotics.com/content/images/2019/09/6wire.png" width=400 alt="6 wire stepper motor">
+
+<p>&nbsp;</p>
+
 ## A very silent stepper motor driver, TMC
 
 [TMC 2209 - V1.2](https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2/blob/master/manual/TMC2209-V1.2-manual.pdf)
@@ -8,10 +26,8 @@ I bought it from [Amazon](https://www.amazon.com/gp/product/B08SMDY3SQ/ref=ppx_y
 
 Its [datasheet](https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2/blob/master/manual/TMC2209-V1.2-manual.pdf).
 
-- Stepper motor
 
-A typical stepper motor would have 4 wires. Some might have 5 wires or 6 wires. But to use it with the driver, we can just use 4 wires of the stepper motor.
-
+<p>&nbsp;</p>
 
 
 ### StealthChop & SpreadCycle
