@@ -2,17 +2,22 @@
 
 A typical stepper motor would have 4 wires. Some might have 5 wires or 6 wires. But to use it with our drivers, we can just use 4 wires of the stepper motor.
 
-- 4 wire stepepr motor
+- **4 wire stepepr motor**
 
 
+- **5 wire stepepr motor**
 
 A 5 wire motor might just be a 4 wire motor with a frame-ground connection. 
 
-<img src="https://knowledge.ni.com/servlet/rtaImage?eid=ka00Z0000011GDW&feoid=00N0Z00000HEWRt&refid=0EM0Z000000W8pX" width=400 alt="5 wire stepper motor">
+<img src="https://knowledge.ni.com/servlet/rtaImage?eid=ka00Z0000011GDW&feoid=00N0Z00000HEWRt&refid=0EM0Z000000W8pX" width=600 alt="5 wire stepper motor">
+
+- **6 wire stepepr motor**
 
 Or it might be a 6 wire with the two center taps tied together.
 
 <img src="https://buildbotics.com/content/images/2019/09/6wire.png" width=400 alt="6 wire stepper motor">
+
+<img src="images/stepperdriver/6to4wire.jpg" width=400 alt="6 wire stepper how to connect as a 4 wire stepper">
 
 <p>&nbsp;</p>
 
