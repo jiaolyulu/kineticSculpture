@@ -158,6 +158,8 @@ To make a step motor rotate one revolution, we repeat it 1600 times, which is th
 
 By changing the parameters for delayMicroseconds, we can have fun by controlling stepper speed.
 
+Example code found here [code](/stepper_motor_code/stepper_motor_Dir___Step.ino)
+
 <p>&nbsp;</p>
 
 ### **why it is silent: StealthChop & SpreadCycle**
