@@ -200,7 +200,7 @@ TMC series drivers pin can be very different. Even the same TMC2209 might have d
 
 can only use stealthchop mode too without using UART.
 
-Basically is the same as TMC2209 V1.2 when use Step/Dir. It is said that TMC2209 has stalk detection while TMC2208 does not. But stalk detection can only be done in Spreadcycle Mode... which means the ones I got can not do it, Unless I change the firmware... So I want to get another driver that can do stalk detection.
+Basically is the same as TMC2209 V1.2 when use Step/Dir. It is said that TMC2209 has stalk detection while TMC2208 does not. But stalk detection does not work... So I want to get another driver that can do stalk detection.
 
 Also, I am curious if there is anyway to do UART without buying another stepper motor board... A lot of the tutorials are based on stepper mother board like this [BIGTREETECH SKR Mini E3 V3.0 Control Board with TMC2209 UART Stepper Driver ](https://www.amazon.com/BIGTREETECH-Control-TMC2209-Stepper-Upgrade/dp/B09LC34SCK).
 
