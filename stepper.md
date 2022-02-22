@@ -2,7 +2,7 @@
 
 [Stepper motor types from ITP physical computing site](https://vimeo.com/380417082?embedded=true&source=vimeo_logo&owner=3661860)
 
-## **4/6 wire steppers**
+## **4/6 wire steppers how to wire it to stepper driver?**
 
 ---
 
@@ -28,7 +28,7 @@ When we use a bipolar stepper driver, we can see its pin configuration usually l
 
 <img src="images/stepperdriver/TMC2209V1.2Pin.jpg" alt="a stepper motor driver pin configuration" width=400>
 
-So A1 A2 should be connected to A+ A-, B1 B2 should be connected to B+ B-. According to my experience, the only thing matters is that you should pair them right. 
+So A1 A2 should be connected to A+ A-, B1 B2 should be connected to B+ B-. According to my experience, the only thing matters is that you should pair them right. The polarity doesn’t matter.
 
 <p>&nbsp;</p>
 
@@ -38,13 +38,23 @@ Sometimes, the stepper motors are manufactured with different standard and the o
 
 <img  src="images/stepperdriver/stepper.png" width=400 alt="Jason and lulu's stepper motor is actually different! what a difficult world">
 
-**So I use a multimeter! **The coil A is not connected with coil B in a bipolar stepper motor. If you measure the 2 resistance of coil A1 and coil A2, it should be very small. In this case, the resistance is just 3.2 Ω.
+**So I use a multimeter!** The coil A is not connected with coil B in a bipolar stepper motor. If you measure the 2 resistance of coil A1 and coil A2, it should be very small. In this case, the resistance is just 3.2 Ω.
 
 Or we can tear it down.
 
 <img  src="images/stepperdriver/stepperteared.png" width=400 alt="Jason's stepper they are actually 4 wire">
 
+Or we can spin the motor. (credit [here](https://www.makerguides.com/tb6600-stepper-motor-driver-arduino-tutorial/))
 
+To find the two wires from one coil, do the following with the motor disconnected:
+
+- Try to spin the shaft of the stepper motor by hand and notice how hard it is to turn.
+
+- Now pick a random pair of wires from the motor and touch the bare ends together.
+
+- Next, while holding the ends together, try to spin the shaft of the stepper motor again.
+
+If you feel a lot of resistance, you have found a pair of wires from the same coil. If you can still spin the shaft freely, try another pair of wires. Now connect the two coils to the pins shown in the wiring diagram above.
 
 <p>&nbsp;</p>
 
@@ -60,19 +70,111 @@ I bought it from [Amazon](https://www.amazon.com/gp/product/B08SMDY3SQ/ref=ppx_y
 
 Its [datasheet](https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2/blob/master/manual/TMC2209-V1.2-manual.pdf).
 
+### **Step 1: figure out the Vref**
+
+Vref is a voltage reference that would correspond to the maxinum current that will flow to your stepper motor.
+
+We need to use a screw driver to adjust the small screw on our board and measure the voltage from Vref to Ground. 
+
+Also, before measure, we need to connect the external power supply to the stepper motor driver.
+
+<img src="images/stepperdriver/measurevref.png" alt="image of the schematic" width=400>
+
+**Formula is: Vref= 8 * Max current of a stepper motor * Sense resistor value.**
+
+let's suppose we are using this stepper motor [stepper motor from pololu](https://www.pololu.com/product/1204)
+
+**Max current of a stepper motor**
+
+Current rating: 600 mA per coil
+
+Voltage rating: 3.9 V
+
+When we look at the parameters for a stepper motor, it would says a rated voltage and current. For this stepper motor, it would drive 600 mA under 3.9V. Unlike dc motors, stepper motors can operate under higher voltage if we use stepper motor driver. Stepper motors are designed to work this way and it is safe to run the motors at up to 20 times the rated voltage.  You will actually get better performance by running at a higher voltage than the rated voltage. If you hook it up to to 12V, for example, the motor while attempt to draw more current, but the stepper motor driver will not allow that to happen and use high frequency pulses to limit the average current to the desired maximum value.
+
+Our max current is 600 mA. 
+
+**Sense resistor value**
+
+Our Sense resistor value is 110 Ω in this case. We can find it out by examine our motor driver.
+
+So the Vref we desired should be around 0.5V. Use a screw driver to adjust the value until we measure the Vref to be 0.5V. Clockwise for reduce Vref and Counter-clockwise to increase.
 
 <p>&nbsp;</p>
 
+### **Step 2: Schematics**
 
 
-### **StealthChop & SpreadCycle**
 
+![schematics of arduino and stepper motor and driver](images/stepperdriver/schematics.png)
 
+<img src="images/stepperdriver/ms1ms2.png" alt="microstepping" width=400>
+
+I left the MS1 and MS2 not connected, their default value is pulled down to be low. So it is 1/8 microstep. Our stepper is 1.8 degree step angle, which means 200 steps per revolution. Stepper motors typically have a step size of 1.8° or 200 steps per revolution, this refers to full steps. So the steps we need to complete a revolution is 1600 steps.
+
+<p>&nbsp;</p>
+
+### **Step 3: Code**
+
+**Direction Pin**
+
+When Direction pin is high, the stepper motor would rotate clockwise. When its low, it would rotate counter-clockwise
+
+```
+{
+    // Set the spinning direction clockwise:
+    digitalWrite(dirPin, HIGH);
+}
+```
+
+**Stepper Pin**
+
+To make a step motor rotate one step, we need to create one pulse on the stepper pin.
+
+```
+{
+    // these four lines would result in the stepper motor to rotate 1 microstep, it creates one pulse
+    digitalWrite(stepPin, HIGH);
+    delayMicroseconds(1000);
+    digitalWrite(stepPin, LOW);
+    delayMicroseconds(1000);
+}
+```
+
+To make a step motor rotate one revolution, we repeat it 1600 times, which is the number of steps it needs for a full revolution.
+
+```
+{
+    //stepper would rotate clockwise for one revolution
+    digitalWrite(dirPin, HIGH);
+    for (int i = 0; i < stepsPerRevolution; i++) {
+        digitalWrite(stepPin, HIGH);
+        delayMicroseconds(1000+i);
+        digitalWrite(stepPin, LOW);
+        delayMicroseconds(1000+i);
+    }
+}
+```
+
+By changing the parameters for delayMicroseconds, we can have fun by controlling stepper speed.
+
+<p>&nbsp;</p>
+
+### **why it is silent: StealthChop & SpreadCycle**
+
+For this one I bought from Amazon, it is set to StealthChop already. You can check it by examine the board. It means that I am not allowed to use spreadCycle. Also, we can only detect stalk when we are in Spreadcycle mode.
+
+![mode of the board](images/stepperdriver/whichmode.png)
+
+[stealthchop and spreadcycle explained](https://youtu.be/Q0sJlGh9WNY)
 
 StealthChop is a quiet mode of operation for stepper motors at standstill and at low velocities. It is based on a voltage mode PWM. 
 
 While stealthChop is a voltage mode PWM controlled chopper, spreadCycle is a cycle-by-cycle current control. It can react extremely fast to changes in motor velocity or motor load. spreadCycle will give better performance in medium to high velocity range for motors and applications which tend to resonance.
 
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
 
 ## **Unipolar steppers**
 
