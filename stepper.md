@@ -206,7 +206,25 @@ Also, I am curious if there is anyway to do UART without buying another stepper 
 
 A lot of features of the stepper driver like stallguard and coolstep are based on UART. And the stepper library cannot even compile on Nano iot 33 board. Their mother board chip is a STM32 chip.
 
+**SSTSPIN220**
 
+Just need to follow this Pololu Tutorial
+
+[Pololu Tutorial](https://www.pololu.com/product/2876)
+
+I follow the wiring. 
+
+![the wiring I followed](https://a.pololu-files.com/picture/0J9750.850.jpg?018aeb688feed9c63fc87c5f22f17805)
+
+And I adjust the Vref because the formula this time is Vref= Current Limit / 5.
+
+I use the example code here: 
+
+[Example code for using SSTSPIN220](https://github.com/pranav083/Stepper_STSPIN220-library)
+
+The result is that the stepper motor would have some noise but because it can microstep 1/256 step, the noise is not so noticable.
+
+<p>&nbsp;</p>
 
 ## **Unipolar steppers**
 
