@@ -14,7 +14,7 @@ A typical stepper motor would have 4 wires. Some might have 6 wires. But to use 
 
 
 
-- **6 wire stepepr motor**
+- **6 wire stepper motor**
 
 Or it might be a 6 wire with the two center taps tied together.
 
@@ -22,7 +22,9 @@ Or it might be a 6 wire with the two center taps tied together.
 
 <img src="images/stepperdriver/6to4wire.jpg" width=400 alt="6 wire stepper how to connect as a 4 wire stepper">
 
+- **8 wire stepper motor**
 
+See this tutorial here: [connecting stepper motors with different numbers of wires](https://www.pololu.com/docs/0J71/4.2)
 
 When we use a bipolar stepper driver, we can see its pin configuration usually like this:
 
