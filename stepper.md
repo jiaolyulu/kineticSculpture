@@ -76,9 +76,9 @@ Vref is a voltage reference that would correspond to the maxinum current that wi
 
 We need to use a screw driver to adjust the small screw on our board and measure the voltage from Vref to Ground. 
 
-Also, before measure, we need to connect the external power supply to the stepper motor driver.
+Also, before measure, we need to connect the external power supply to the stepper motor driver. For this stepper driver, we just need to connect VM. However, for some other TMC drivers, we need to connect the logic VCC and GND.
 
-<img src="images/stepperdriver/measurevref.png" alt="image of the schematic" width=400>
+<img src="images/stepperdriver/measurevref1.png" alt="image of the schematic" width=600>
 
 **Formula is: Vref= 8 * Max current of a stepper motor * Sense resistor value.**
 
