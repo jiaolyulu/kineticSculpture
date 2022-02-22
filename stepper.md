@@ -100,6 +100,8 @@ Our Sense resistor value is 110 Ω in this case. We can find it out by examine o
 
 So the Vref we desired should be around 0.5V. Use a screw driver to adjust the value until we measure the Vref to be 0.5V. Clockwise for reduce Vref and Counter-clockwise to increase.
 
+Additional Video: [Pololu stepper motor set Vref tutorial] (https://youtu.be/89BHS9hfSUk)
+
 <p>&nbsp;</p>
 
 ### **Step 2: Schematics**
