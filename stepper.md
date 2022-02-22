@@ -178,6 +178,15 @@ While stealthChop is a voltage mode PWM controlled chopper, spreadCycle is a cyc
 
 <p>&nbsp;</p>
 
+## debugging tips:
+
+If your motor is making weird noise and it rotates back and forth quickly, you might need to change the wiring of stepper motor.
+
+If your stepper motor driver/ stepper motor is heated up. Make the Vref lower.
+
+If your stepper cannot rotate but when you touch it, it seems to be vibrating.. Make the Vref bigger.
+
+
 ## **Unipolar steppers**
 
 ---
