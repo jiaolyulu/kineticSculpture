@@ -291,15 +291,21 @@ And we can set the stalk_Value. See the datasheet 5.3 chapter for more informati
 
 ```
 {
-    driver.TCOOLTHRS(0xFFFFF); // TCOOLTHRS: This is the lower threshold velocity for switching on smart energy CoolStep and StallGuard to DIAG output. (unsigned)Set this parameter to disable CoolStep at low speeds, where it cannot work reliably. The stall output signal become enabled when exceeding this velocity. It becomes disabled again once the velocity falls below this threshold.
-    driver.semin(5);  // [0... 15] If the StallGuard4 result falls below SEMIN*32, the motor current becomes increased to reduce motor load angle.
-    driver.semax(5);  // [0... 15]  If the StallGuard4 result is equal to or above (SEMIN+SEMAX+1)*32, the motor current becomes decreased to save energy.
-    driver.sedn(0b01);  // current down step speed 0-11%
-    driver.SGTHRS(STALL_VALUE);
+    #define STALL_VALUE 150
+    void setup() {
+        driver.TCOOLTHRS(0xFFFFF); // TCOOLTHRS: This is the lower threshold velocity for switching on smart energy CoolStep and StallGuard to DIAG output. (unsigned)Set this parameter to disable CoolStep at low speeds, where it cannot work reliably. The stall output signal become enabled when exceeding this velocity. It becomes disabled again once the velocity falls below this threshold.
+        driver.semin(5);  // [0... 15] If the StallGuard4 result falls below SEMIN*32, the motor current becomes increased to reduce motor load angle.
+        driver.semax(5);  // [0... 15]  If the StallGuard4 result is equal to or above (SEMIN+SEMAX+1)*32, the motor current becomes decreased to save energy.
+        driver.sedn(0b01);  // current down step speed 0-11%
+        driver.SGTHRS(STALL_VALUE);
+    }
 }
 ```
+So we can see the result when our stepper motor is stalking...
 
+<img src="images/stepperdriver/serialstalk.png" alt="stepper driver 2209" width=150>
 
+The overall code can be found here ....
 
 <p>&nbsp;</p>
 
