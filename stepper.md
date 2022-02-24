@@ -72,6 +72,10 @@ I bought it from [Amazon](https://www.amazon.com/gp/product/B08SMDY3SQ/ref=ppx_y
 
 Its [datasheet](https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2/blob/master/manual/TMC2209-V1.2-manual.pdf).
 
+## use it in Step/Dir mode (If you use A4988, you can follow the same tutorial but just change the parameters...)
+
+---
+
 ### **Step 1: figure out the Vref**
 
 Vref is a voltage reference that would correspond to the maxinum current that will flow to your stepper motor.
@@ -166,9 +170,43 @@ Example code found here [code](/stepper_motor_code/stepper_motor_Dir___Step.ino)
 
 <p>&nbsp;</p>
 
-### **why it is silent: StealthChop & SpreadCycle**
+## use it in UART mode: Active Step/Dir mode
 
-For this one I bought from Amazon, it is set to StealthChop already. You can check it by examine the board. It means that I am not allowed to use spreadCycle. Also, we can only detect stalk when we are in Spreadcycle mode.
+---
+
+You don't have to fiddle with jumpers to set your micro-steps, just change it in the firmware, and you can dynamically change the amount of current going to each stepper motor (no more adjusting that small potentiometer on the driver board). Also, you can use other cool functions in this mode. For example, switching from stealthchop mode to spreadcycle. Motor stalk detection and so on...
+
+If you are using a TMC2208 board, you could look at this article: [UART TMC2208](https://www.instructables.com/UART-This-Serial-Control-of-Stepper-Motors-With-th/)
+
+### **Step 1: look at your firmware to see which pin is UART**
+
+<img src="images/stepperdriver/Uart.png" alt="stepper driver 2209" width=600>
+
+ The center pad is the direct connection back to the TMC2209 chip UART pin. The two pads on either side connect directly to the header pin they are closest to. The silkscreen side of the board has these two header pins labeled collectively as PDN UART.
+
+ The ones I got from Amazon is soldered like the image on the left. So the UART pin is the one next to the pin MS2.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+### **Step 2: connect UART to Arduino**
+
+<img src="images/stepperdriver/Uart.png" alt="stepper driver 2209" width=600>
+
+ The center pad is the direct connection back to the TMC2209 chip UART pin. The two pads on either side connect directly to the header pin they are closest to. The silkscreen side of the board has these two header pins labeled collectively as PDN UART.
+
+ The ones I got from Amazon is soldered like the image on the left. So the UART pin is the one next to the pin MS2.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+## **why it is silent: StealthChop & SpreadCycle**
+
+---
+
+For this one I bought from Amazon, it is set to StealthChop already. So if you use it as a A4988, it would be quiet.
 
 ![mode of the board](images/stepperdriver/whichmode.png)
 
@@ -202,11 +240,15 @@ TMC series drivers pin can be very different. Even the same TMC2209 might have d
 
 can only use stealthchop mode too without using UART.
 
-Basically is the same as TMC2209 V1.2 when use Step/Dir. It is said that TMC2209 has stalk detection while TMC2208 does not. But stalk detection does not work... So I want to get another driver that can do stalk detection.
+Basically is the same as TMC2209 V1.2 when use Step/Dir. It is said that TMC2209 has stalk detection while TMC2208 does not. 
 
-Also, I am curious if there is anyway to do UART without buying another stepper motor board... A lot of the tutorials are based on stepper mother board like this [BIGTREETECH SKR Mini E3 V3.0 Control Board with TMC2209 UART Stepper Driver ](https://www.amazon.com/BIGTREETECH-Control-TMC2209-Stepper-Upgrade/dp/B09LC34SCK).
+Also, the TMC2208 I got UART pin is not soldered yet... By default, the UART pin on the Trinamic TMC2208 chip is not connected to the header pin(s) of the Watterott SilentStepStick.  If we want to do UART control using TMC2208,  you can either solder the center pad to the up or down pad, or to both.  
 
-A lot of features of the stepper driver like stallguard and coolstep are based on UART. And the stepper library cannot even compile on Nano iot 33 board. Their mother board chip is a STM32 chip.
+<img src="images/stepperdriver/uart2208.png" alt="stepper driver 2208 uart pin modify adding jumper wire" width=400>
+
+and then you can follow the TMC2209 tutorial to use it. Note that it does not offer stalk detection.
+
+<p>&nbsp;</p>
 
 **SSTSPIN220**
 
