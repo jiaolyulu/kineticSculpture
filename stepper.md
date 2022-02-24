@@ -188,17 +188,118 @@ If you are using a TMC2208 board, you could look at this article: [UART TMC2208]
 
 <p>&nbsp;</p>
 
-<p>&nbsp;</p>
 
 ### **Step 2: connect UART to Arduino**
 
-<img src="images/stepperdriver/Uart.png" alt="stepper driver 2209" width=600>
+<img src="images/stepperdriver/Uart-circuit.png" alt="stepper driver 2209" width=600>
 
- The center pad is the direct connection back to the TMC2209 chip UART pin. The two pads on either side connect directly to the header pin they are closest to. The silkscreen side of the board has these two header pins labeled collectively as PDN UART.
-
- The ones I got from Amazon is soldered like the image on the left. So the UART pin is the one next to the pin MS2.
+There needs to be a one wire connection from the UART pin on the SilentStepStick. That one wire then splits into two lines (Rx and Tx) for connection to the Arduino Nano IOT 33, with the Tx (transmit) connection being made through a 1K Ohm resistor.
 
 <p>&nbsp;</p>
+
+
+### **Step 3: Driver Address**
+
+<img src="images/stepperdriver/Uart-circuit.png" alt="stepper driver 2209" width=600>
+
+The Driver address is specified by the physical pin state of MS1 and MS2 pin. MS1 being bit 0 (LSB) and MS 2 being bit 1. Therefore by pulling ms1 low and ms2 high, the address for that driver would be 0b10.
+
+<p>&nbsp;</p>
+
+### **Step 4: Circuit**
+
+<img src="images/stepperdriver/circuit-UART.png" alt="stepper driver 2209" width=600>
+
+```
+{
+    #define EN_PIN           4 // Enable
+    #define DIR_PIN          2 // Direction
+    #define STEP_PIN         3 // Step
+}
+```
+
+<p>&nbsp;</p>
+
+### **Step 5: Code**
+
+First of all, install the TMCSTEPPER library.
+
+<img src="images/stepperdriver/installLibrary.png" alt="stepper driver 2209" width=600>
+
+To start the Hardware Serial communication..
+
+```
+{
+    #define SERIAL_PORT Serial1 // TMC2208/TMC2224 HardwareSerial port
+    #define DRIVER_ADDRESS 0b10 // TMC2209 Driver address according to MS1 and MS2
+    TMC2209Stepper driver(&SERIAL_PORT, R_SENSE, DRIVER_ADDRESS);
+}
+```
+We can dynamicly change the microstepper, current limit...
+
+```
+{
+    driver.rms_current(1000);        // Set motor RMS current
+    driver.microsteps(32);          // Set microsteps to 1/32th
+}
+```
+
+Change direction by changing the boolean called shaft
+
+```
+{
+    shaft = !shaft;
+    driver.shaft(shaft);
+}
+```
+
+To use spreadCycle mode:
+
+```
+{
+    driver.en_spreadCycle(true);
+}
+```
+
+To use stealthchop(silent) mode:
+
+```
+{
+    driver.pwm_autoscale(true);
+}
+```
+
+<p>&nbsp;</p>
+
+### **Step 6: Stalk Detection**
+
+I connect D9(one of the interrupt pin on Arduino Nano IOT 33 board) to the Diag Pin.
+
+```
+{
+    #define interruptPin     9
+    void setup() {
+        attachInterrupt(digitalPinToInterrupt(interruptPin), diagnose, CHANGE);
+    }
+    void diagnose(){
+    Serial.println("stalking!");
+    }
+}
+```
+
+And we can set the stalk_Value. See the datasheet 5.3 chapter for more information about the parameters... (datasheet)[https://www.trinamic.com/fileadmin/assets/Products/ICs_Documents/TMC2209_Datasheet_V103.pdf]
+
+```
+{
+    driver.TCOOLTHRS(0xFFFFF); // TCOOLTHRS: This is the lower threshold velocity for switching on smart energy CoolStep and StallGuard to DIAG output. (unsigned)Set this parameter to disable CoolStep at low speeds, where it cannot work reliably. The stall output signal become enabled when exceeding this velocity. It becomes disabled again once the velocity falls below this threshold.
+    driver.semin(5);  // [0... 15] If the StallGuard4 result falls below SEMIN*32, the motor current becomes increased to reduce motor load angle.
+    driver.semax(5);  // [0... 15]  If the StallGuard4 result is equal to or above (SEMIN+SEMAX+1)*32, the motor current becomes decreased to save energy.
+    driver.sedn(0b01);  // current down step speed 0-11%
+    driver.SGTHRS(STALL_VALUE);
+}
+```
+
+
 
 <p>&nbsp;</p>
 
@@ -279,3 +380,10 @@ The result is that the stepper motor would have some noise but because it can mi
 A 5 wire motor might just be a 4 wire motor with a frame-ground connection. 
 
 <img src="https://knowledge.ni.com/servlet/rtaImage?eid=ka00Z0000011GDW&feoid=00N0Z00000HEWRt&refid=0EM0Z000000W8pX" width=600 alt="5 wire stepper motor">
+
+
+## **credit**
+
+This tutorial is based on [Seansadler on Instructable: Uart TMC2208](https://www.instructables.com/UART-This-Serial-Control-of-Stepper-Motors-With-th/)
+
+[Tomdixo's question and solution of TMC2209 UART address](https://forum.arduino.cc/t/solved-slave-address-tmc2209-uart/693615)
