@@ -26,13 +26,42 @@ get free trial with educational license.
 
 - pin the dimension tool cause it is useful
 
-### **Create another bar so that it could be assembled**
+### **Body and Component**
 
-- right click a body to make it into a component that is dragable
+### **Paste and paste new**
 
-- joint, revolute
+Paste: add an instance
 
-- right click the components and ground one of the bar
+Paste New: add another instance
 
-### **
+### **insert Mcmaster Component**
 
+### **Activate and Isolate**
+
+Activate an object would activate the timeline of a component
+
+### **Timeline**
+
+By default Fusion will capture every change made to your design in a tieline. This process is called Parametric Modeling and is great when you need to capture specific features and define the relationship between parts.
+
+Turning off design history allows you to work in a Direct Modeling environment. This lets you quickly create geometry without having to worry about individual features.
+
+### **Joint Origin**
+
+Center point square, Middle point triangle, snap
+
+Hover over the face and press control/command on mac
+
+J is the shortcut for joint
+
+### **Joint && As-built Joint**
+
+Joint: When the parts are not in right position & when it is easy to dimension the joint
+
+As-built joint: When you already align every components and just want to make a joint without any potential translate
+
+### **joint limits & rest & suppress joint**
+
+### **animate joints and animate models**
+
+### **motion link**
