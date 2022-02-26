@@ -1,4 +1,12 @@
-#### Project Requirement
+## Project Requirement
+
+---
+
+May 5 - May 9, 2022
+
+Showcasing all project in ROOM 404 for 1 week.
+
+
 Prompt: Soft Move.
 
 1: Using Motor(all kinds of motors, pneumatic or water pump counts)
