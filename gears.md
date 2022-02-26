@@ -8,10 +8,6 @@
 
 ![image of an internal gear, called planetary gear for it could create a planet like movement](images/internal_gear.png)
 
-
-
-
-
 **Bevel Gear**
 
 to turn the rotationl movement to another axis.
