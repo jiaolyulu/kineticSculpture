@@ -104,4 +104,13 @@ Hover over the face and press control/command on mac
 ---
 
 
+![second mission reference image](images/fusion360/mission2.png)
+
+[Jennifer Townley - Squares](https://vimeo.com/153365803)
+
+[Jennifer Townley - Squares drawing pdf](https://drive.google.com/file/d/1xS-wEvdfK904TarfuSwihKoIQGwxoMRv/view?usp=sharing)
+
+### **Gear**
+
 ### **motion link**
+
