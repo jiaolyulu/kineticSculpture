@@ -2,6 +2,9 @@
 
 ---
 
+First part recording: [recording](https://nyu.zoom.us/rec/share/Ie8Uz2Ti2O3Hft1Ye1v43YFvFXxrMUEt8g_jt8uSUb6ydsBGyM0FBMNEvYKbHkxc.i_BnMm12lN1dYdS4?startTime=1645899149000)
+
+
 **Question: What CAD or 3D software you use?**
 
 ### **Fusion 360 download**

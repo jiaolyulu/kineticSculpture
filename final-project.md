@@ -2,9 +2,9 @@
 
 ---
 
-May 5 - May 9, 2022
+**Date: May 5 - May 9, 2022**
 
-Showcasing all project in ROOM 404 for 1 week.
+**Where: Showcasing all project in ROOM 404 for 1 week.**
 
 
 Prompt: Soft Move.

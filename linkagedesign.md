@@ -54,7 +54,7 @@ the prismatic, or sliding
 
 ---
 
-### **Assignment: **
+### **Assignment:**
 
 Create a four bar linkage! in [MotionGen] (http://motiongenpro.appspot.com/).
 

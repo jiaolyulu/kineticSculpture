@@ -35,17 +35,9 @@ Due to COVID, the number of people for one visit is limited to 6 people. Materia
 
 Also, if you are just interested in visiting the museum but are not available at that time, maybe we can form a second group to visit there!!
 
-**3: Feb, 19, 2022, 1:00 pm - 3:30 pm, Automata and its Mechanism, Play with Mechanism using wires and cardboard**
+**3: Feb, 19, 2022, 1:00 pm - 3:30 pm, Play with Mechanism using wires and cardboard**
 
-![image of an automata which is a machine full of mechanical moving part to write and draw something. The machine is made into the shape of a little boy](images/clubSpiritAutomata1.gif)
 
-this extraordinary little doll is actually a self-operating machine that's believed by some to be one of the oldest examples of a computer. Known as “The Writer,”.
-
-[slide Automata](https://docs.google.com/presentation/d/11pqmIhH43Y5V3ufvG02QRKbX3dsfqv2rV_EwonJ81w8/edit?usp=sharing)
-
-What it means when I watch the feather gently weeps my guitar？Thinking kinetic sculpture like a painting...
-
-Alexander Calder's early practice... wire
 
 ![motiongenpro designed mechanism](images/motiongen.gif)
 
@@ -53,17 +45,11 @@ Alexander Calder's early practice... wire
 
 ![prototype of 4 bar linkage and The Holy 11 numbers by Theo Janson](images/cardboard.gif)
 
-[Slide for Sharing your interest or project](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 
-talk about the final project
+**4: Feb, 26, 2022, 1:00 pm - 2:30 pm, Fusion 360 Simulation of Mechanism, Understanding gears**
 
-For next Meeting: Share pieces of work you like... or your past kinetic project
+ 
 
-**4: Feb, 26, 2022, 1:00 pm - 2:30 pm, Understanding Motors, Controlling High current devices, Controlling DC motors and Linear Actuators**
-
-[Actuators and Examples](https://www.notion.so/d680aeca8e5a4f519d589a9c485d8ecc?v=69c9a7fb00ae4047a855410953f721f3)
-
-[slide](https://docs.google.com/presentation/d/1dfep1qj0_mXK4wCVpKLdVQtoGF9ODLN1W1-e40YU5M0/edit?usp=sharing) Motor control
 
 **5: Mar, 5, 2022, 1:00 pm - 2:30 pm, Fusion 360 Simulation of Mechanism, Understanding gears**
 
@@ -82,7 +68,11 @@ a demo in Fusion 360
 [Slide for Sharing your interest or project](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 talk about the final project
 
-**6: Mar, 19, 2022, 1:00 pm - 2:30 pm Fusion 360 Basic Modeling**
+**6: Mar, 19, 2022, 1:00 pm - 2:30 pm, Understanding Motors, Controlling High current devices, Controlling DC motors and Linear Actuators**
+
+[Actuators and Examples](https://www.notion.so/d680aeca8e5a4f519d589a9c485d8ecc?v=69c9a7fb00ae4047a855410953f721f3)
+
+[slide](https://docs.google.com/presentation/d/1dfep1qj0_mXK4wCVpKLdVQtoGF9ODLN1W1-e40YU5M0/edit?usp=sharing) Motor control
 
 **7: Mar, 26, 2022, 1:00 pm - 2:30 pm, Controlling Stepper Motors, Other actuators, Guest Speaker**
 
@@ -95,7 +85,7 @@ talk about the final project
 
 **8: Apr 2, 2022, 1:00 pm - 2:30 pm, Motor mount, Mcmaster** 
 
-A glance at Mcmaster
+A glance at Mcmaster  
 
 **9: Apr 9, 2022, 1:00 pm - 2:30 pm, Tips for finishing a project** 
 
@@ -106,6 +96,18 @@ online Lasercut Service to cut metal
 sheet metal bending
 
 talk about the final project
+
+**10 Apr 16, 2022, 1:00 pm -2:30 pm, Automata and their mechanism**
+
+Automata and its Mechanism, ![image of an automata which is a machine full of mechanical moving part to write and draw something. The machine is made into the shape of a little boy](images/clubSpiritAutomata1.gif)
+
+this extraordinary little doll is actually a self-operating machine that's believed by some to be one of the oldest examples of a computer. Known as “The Writer,”.
+
+[slide Automata](https://docs.google.com/presentation/d/11pqmIhH43Y5V3ufvG02QRKbX3dsfqv2rV_EwonJ81w8/edit?usp=sharing)
+
+What it means when I watch the feather gently weeps my guitar？Thinking kinetic sculpture like a painting...
+
+Alexander Calder's early practice... wire
 
 **10: May 5 - May 9, 2022**
 
