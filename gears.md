@@ -1,4 +1,6 @@
-### Type of Gears
+## Type of Gears
+
+---
 
 **Spur Gear**
 
@@ -23,13 +25,14 @@ can only be driven from the shaft side
 ![worm gear driven from the right side, it is working](images/wormwheeldriven.gif) 
 ![driven from the other side it is locked](images/wormwheelnot_driven.gif)
 
+<img src="https://cdn.shopify.com/s/files/1/1381/8321/products/Music-Box_WB2_b205bc79-73a2-4f21-8e89-9d10f0c97eab_700x700.jpg?v=1590153348" alt="music box" width=400>
 
-
-![image of a music box](https://cdn.shopify.com/s/files/1/1381/8321/products/Music-Box_WB2_b205bc79-73a2-4f21-8e89-9d10f0c97eab_700x700.jpg?v=1590153348)
 
 Question: why music boxes use worm gears?
 
-### Simulate in Fusion 360
+## Simulate in Fusion 360
+
+---
 
 **Task one:**
 
