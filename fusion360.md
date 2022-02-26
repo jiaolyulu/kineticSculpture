@@ -2,6 +2,8 @@
 
 ---
 
+**Question: What CAD or 3D software you use?**
+
 ### **Fusion 360 download**
 
 [Link](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwijgcj8p5r2AhUSicgKHRQNAAoYABADGgJxdQ&ei=poIYYrrgGb_YytMP75ynqAY&ohost=www.google.com&cid=CAASEuRo9_AnOZVRNGLZZcOEryXrqw&sig=AOD64_3RAT7U_e18LkS9mZQE5FdGtXto6Q&q&sqi=2&adurl&ved=2ahUKEwi6y7_8p5r2AhU_rHIEHW_OCWUQ0Qx6BAgDEAE)
@@ -26,6 +28,9 @@ get free trial with educational license.
 
 [Drawings download pdf](https://drive.google.com/file/d/1QnRcQCTb9DUuG8Rdvz84DLR4pkwzOBKH/view?usp=sharing)
 
+### **Motion Gen Pro Challenge!!!!**
+
+[Motiongen](http://motiongenpro.appspot.com/)..
 
 ### **Create a bar**
 
@@ -121,3 +126,29 @@ Hover over the face and press control/command on mac
 ### **motion link**
 
 ### **export drawings from fusion 360 to lasercut it**
+
+<p>&nbsp;</p>
+
+## Why fusion?
+
+---
+
+- CAD drawing for lasercutting more complicated shape
+
+- Mcmaster friendly
+
+- A more light software compared to Solidworks
+
+- Sheetmetal, CNC, 3D print
+
+- Envision my project more in a design and artistic way instead of pure engineer, although I think sketch is more helpful in developing ideas
+
+- for me it is the most easy 3D software to use other than vectorworks
+
+
+## Why no fusion?
+
+---
+
+Because there are so many movements that can only be explored by physically building it.
+
