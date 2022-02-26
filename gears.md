@@ -4,7 +4,11 @@
 
 **Spur Gear**
 
+Spur gears or straight-cut gears are the simplest type of gear
+
 **Pinion**
+
+A pinion is a round gear—usually the smaller of two meshed gears—used in several applications, including drivetrain and rack and pinion systems.
 
 **Internal Gear**
 
@@ -33,6 +37,16 @@ Question: why music boxes use worm gears?
 ## Simulate in Fusion 360
 
 ---
+
+[fm gear download and install](https://apps.autodesk.com/FUSION/en/Detail/Index?id=6294804001663532834)
+
+![image of fusion gear parameters](images/fusion360/fusion_gear.png)
+
+![image of fusion gear formula](images/fusion360/gear_formula.png)
+
+![gear pressure angle](https://www.grobinc.com/wp-content/uploads/gear-pressure-angle-comparison-14.5%C2%B0-20%C2%B0.png)
+
+The higher the pressure angle, the higher the tooth strength. A lower pressue angle gear has less noise. A bigger contact ratio lowers the noise. Decreasing the pressure angle and/or increasing the tooth depth can produce a larger contact ratio.
 
 **Task one:**
 
