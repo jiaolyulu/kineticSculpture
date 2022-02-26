@@ -112,6 +112,12 @@ Hover over the face and press control/command on mac
 
 ### **Gear**
 
+### **constraint**
+
+### **pipe**
+
+### **rectangular array**
+
 ### **motion link**
 
 ### **export drawings from fusion 360 to lasercut it**
