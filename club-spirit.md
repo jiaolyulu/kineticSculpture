@@ -21,6 +21,9 @@ this extraordinary little doll is actually a self-operating machine that's belie
 13. I think it's great. (Viola)
 14. A tool that we didn't know we have.(Dave)
 15. linkages change the way we vision our project.(Nick)
+16. Whatever is not moving is liteless. (Xiao)
+17. Bringing models to life is groovy. (Dave)
+18. Everything can move, except me and you :) (coco, philosopher)
 
 ### World Sculpture Racing Society
 
