@@ -18,6 +18,12 @@ get free trial with educational license.
 
 - Orbit: Shift + middle mouse button.
 
+## First Mission:
+
+---
+
+![first assembly]()
+
 ### **Create a bar**
 
 - everytime you draw a sketch, you need do define the sketch plane
@@ -28,17 +34,47 @@ get free trial with educational license.
 
 ### **Body and Component**
 
+When we do assembly, we should make everything a component
+
 ### **Paste and paste new**
 
 Paste: add an instance
 
 Paste New: add another instance
 
+edit the second bar
+
 ### **insert Mcmaster Component**
+
+6627T53_Position-Control DC Motor
+
+& ground the component
+
+### **revolute joint**j
+
+J is the shortcut for joint
+
+create 2 revolute joints
 
 ### **Activate and Isolate**
 
 Activate an object would activate the timeline of a component
+
+Create the sliding groove
+
+### **toggle colorful mode**
+
+Shift+N, or inspect toogle component color cycling mode.
+
+### **Align objects**
+
+Modify, Align.. We usually align things first and then move it to get the right position.
+
+### **Joint && As-built Joint**
+
+Joint: When the parts are not in right position & when it is easy to dimension the joint
+
+As-built joint: When you already align every components and just want to make a joint without any potential translate
 
 ### **Timeline**
 
@@ -52,16 +88,10 @@ Center point square, Middle point triangle, snap
 
 Hover over the face and press control/command on mac
 
-J is the shortcut for joint
-
-### **Joint && As-built Joint**
-
-Joint: When the parts are not in right position & when it is easy to dimension the joint
-
-As-built joint: When you already align every components and just want to make a joint without any potential translate
-
 ### **joint limits & rest & suppress joint**
 
 ### **animate joints and animate models**
 
 ### **motion link**
+
+### **motion study**
