@@ -22,7 +22,10 @@ get free trial with educational license.
 
 ---
 
-![first assembly]()
+![first assembly](images/fusion360/drawing.png)
+
+[Drawings download pdf](https://drive.google.com/file/d/1QnRcQCTb9DUuG8Rdvz84DLR4pkwzOBKH/view?usp=sharing)
+
 
 ### **Create a bar**
 
@@ -92,6 +95,13 @@ Hover over the face and press control/command on mac
 
 ### **animate joints and animate models**
 
-### **motion link**
-
 ### **motion study**
+
+<p>&nbsp;</p>
+
+## **Mission Two：create gears in Fusion 360**
+
+---
+
+
+### **motion link**
