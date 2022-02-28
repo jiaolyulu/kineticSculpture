@@ -2,11 +2,7 @@
 
 ---
 
-- our exhibition space is determined.
-
-May 5 - May 9, 2022
-
-Showcasing all project in ROOM 404 for 1 week.
+- our exhibition space is determined. May 5 - May 9, 2022. Showcasing all project in ROOM 404 for 1 week.
 
 - material connexion
 
@@ -64,13 +60,13 @@ Create a four bar linkage! in [MotionGen](http://motiongenpro.appspot.com/).
 
 Four bar linkage is everywhere!
 
-[lulu's tic-toking machine](https://www.lulyu.me/work/tictoking)
+[lulu's tic-toking machine](https://www.lulyu.me/work/tictoking) 
 
-[Four Bar Linkage Explain](https://youtu.be/Vh8r_Cpfb8Q)
+[Four Bar Linkage Explain](https://youtu.be/Vh8r_Cpfb8Q) a video showing different four bar linkages
 
 Why?
 
-[Grashof's Law](https://youtu.be/h8bz4ni6mdY)
+[Grashof's Law](https://youtu.be/h8bz4ni6mdY) a video explaining a formula that would result in different behavior move of a four bar linkage
 
 <p>&nbsp;</p>
 
