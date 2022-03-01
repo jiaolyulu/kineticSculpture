@@ -24,6 +24,9 @@ Louise Lessél is a Danish New Media artist and Creative Technologist based in N
 
 <img src="https://www.louiselessel.com/wp-content/uploads/2020/04/8W0B0532.jpg"  width="400" height="220" />
 
+<p>&nbsp;</p> 
 
+[Hayeon Hwang](https://www.hhayeon.com/)
 
-
+Hayeon Hwang is a media artist and interaction designer based on New York. Her work Expressive Tactile Controls, Sound installation, Kinetic magnet sculpture
+[<img src="https://payload.cargocollective.com/1/10/335242/13286000/MagIc_00_670.jpg"  alt="Magic, an installation" width="400"/>](https://vimeo.com/280129245)
