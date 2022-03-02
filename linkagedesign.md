@@ -136,7 +136,10 @@ Look at the video and analyse the linkage system.. rebuild it in Motiongenpro.
 
 <p>&nbsp;</p>
 
-My explaination video: [Link](https://youtu.be/7FiIK0BkHbA)
+My explaination video: [Linkof a video linkage design workshop 2](https://youtu.be/7FiIK0BkHbA)
+
+<p>&nbsp;</p>
+
 
 ## CARDBOARD time
 
