@@ -176,6 +176,11 @@ In Wikipedia there is [Mathematical proof of concept](https://en.wikipedia.org/w
 
 <p>&nbsp;</p>
 
+### **bio inspired linkages**
+
+[linkage mechanisms in animal joints and related
+bioinspired designs pdf view link](https://iopscience.iop.org/article/10.1088/1748-3190/abf744/pdf)
+
 ### Other linkage related artwork or examples
 
 [tickling fox](https://www.instagram.com/p/CaCvtcSgvwd/)
