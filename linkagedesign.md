@@ -60,6 +60,8 @@ Create a four bar linkage! in [MotionGen](http://motiongenpro.appspot.com/).
 
 Four bar linkage is everywhere!
 
+![bio linkage knee](images/linkage/knee-fourbar.gif)
+
 [lulu's tic-toking machine](https://www.lulyu.me/work/tictoking) 
 
 [Four Bar Linkage Explain](https://youtu.be/Vh8r_Cpfb8Q) a video showing different four bar linkages
