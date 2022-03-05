@@ -20,6 +20,12 @@ A pinion is a round gear—usually the smaller of two meshed gears—used in sev
 
 a type of linear actuator that comprises a circular gear (the pinion) engaging a linear gear (the rack)
 
+<img src="https://campagnolo-cdn.thron.com/delivery/public/image/campagnolo/93c4be1e-b4ac-45f4-b965-e0fb8aa659f3/h2bclk/std/1920x1440/Campagnolo_BIG_Corkscrew_-_Dark_Chrome_1.jpg?scalemode=centered" alt="example of a rack and pinion mechanism, a wine bottle opener" width=300>
+
+[Corkscrew](https://www.edumedia-sciences.com/en/media/681-corkscrew)
+
+[![flower installation](images/gear/flower.png)](https://mp.weixin.qq.com/s/gKt27YElE8TRk7kXCuF0TA)
+
 **Bevel Gear**
 
 to turn the rotationl movement to another axis.
