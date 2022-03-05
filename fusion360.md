@@ -128,6 +128,8 @@ Hover over the face and press control/command on mac
 
 ### **motion link**
 
+<img src="images/gear/rack&pinion.png" alt="rack and pinion" width=300>
+
 ### **export drawings from fusion 360 to lasercut it**
 
 <p>&nbsp;</p>
