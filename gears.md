@@ -14,7 +14,7 @@ A pinion is a round gear—usually the smaller of two meshed gears—used in sev
 
 ![image of an internal gear, called planetary gear for it could create a planet like movement](images/internal_gear.png)
 
-**Pinion**
+**Rack**
 
 ![rack and pinion](https://cdn.britannica.com/77/3677-004-BCF27DE8/Rack-pinion-Gear-wheel-cogwheel.jpg)
 
