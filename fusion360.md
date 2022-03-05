@@ -142,13 +142,13 @@ Hover over the face and press control/command on mac
 
 <img src="images/fusion360/martinsmith.png" alt="bob potts pursuit image" width=400>
 
-Fusion file link: https://a360.co/3t9BW1a
+Fusion file link: [https://a360.co/3t9BW1a](https://a360.co/3t9BW1a)
 
 - [bob potts pursuit 2](https://vimeo.com/99242581)
 
 <img src="images/fusion360/bob_potts.jpg" alt="bob potts pursuit image" width=600>
 
-Fusion file link: https://a360.co/3t5Ltqf
+Fusion file link: [https://a360.co/3t5Ltqf](https://a360.co/3t5Ltqf)
 
 <p>&nbsp;</p>
 
