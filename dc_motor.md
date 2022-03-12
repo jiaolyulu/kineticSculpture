@@ -1,3 +1,6 @@
+[Danny's explanation about different motors](https://sites.google.com/nyu.edu/ddf20/week-12)
+
+
 ## what motor??? guess
 ---
 
@@ -9,17 +12,23 @@
 
 - [Danny](http://www.smoothware.com/danny/)
 
+- [ROTO I](https://davidbermantfoundation.org/project/roto-i/)
 
+<p>&nbsp;</p>
 
 ## DC motor resources
 ---
 
-[motor slide by David Rios](https://docs.google.com/presentation/d/1dfep1qj0_mXK4wCVpKLdVQtoGF9ODLN1W1-e40YU5M0/edit?usp=sharing)
+[dc motor](https://docs.google.com/presentation/d/1657qCm1JJ-xFHYRGItPcpd9JypawHc3FzdQHQ11XgzM/edit?usp=sharing)
 
-[how dc motor works youtube](https://youtu.be/LAtPHANEfQo)
+[motor slide by David Rios](https://docs.google.com/presentation/d/1PUFzOKs2YsLvUOHUYQ5_YS3Fu4nOU8aCn1nzRbDs5F8/edit?usp=sharing)
 
 [Deqing Sun's Prototyping electronic devices](https://itp.nyu.edu/classes/prototypingelectronicdevices/wp-content/uploads/sites/105/2019/09/Class-11-Motors.pdf)
 
-[itp physical computing site](https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/)
+
 
 [pololu explanation about motor noise](https://www.pololu.com/docs/0J15/9)
+
+<p>&nbsp;</p>
+
+[itp physical computing site](https://itp.nyu.edu/physcomp/labs/motors-and-transistors/dc-motor-control-using-an-h-bridge/)
