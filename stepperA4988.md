@@ -60,21 +60,10 @@ If you feel a lot of resistance, you have found a pair of wires from the same co
 
 <p>&nbsp;</p>
 
-## **A very silent stepper motor driver, TMC**
+## **A very popular and cheap stepper motor driver, A4988**
 
 ---
 
-[TMC 2209 - V1.2](https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2/blob/master/manual/TMC2209-V1.2-manual.pdf)
-
-<img src="https://m.media-amazon.com/images/I/71t9eCnfFIL._SL1500_.jpg" width=200 alt="tmc driver image">
-
-I bought it from [Amazon](https://www.amazon.com/gp/product/B08SMDY3SQ/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1).
-
-Its [datasheet](https://github.com/bigtreetech/BIGTREETECH-TMC2209-V1.2/blob/master/manual/TMC2209-V1.2-manual.pdf).
-
-## use it in Step/Dir mode (If you use A4988, you can follow the same tutorial but just change the parameters...)
-
----
 
 ### **Step 1: figure out the Vref**
 
@@ -82,7 +71,7 @@ Vref is a voltage reference that would correspond to the maxinum current that wi
 
 We need to use a screw driver to adjust the small screw on our board and measure the voltage from Vref to Ground. 
 
-Also, before measure, we need to connect the external power supply to the stepper motor driver. For this stepper driver, we just need to connect VM. However, for some other TMC drivers, we need to connect the logic VCC and GND.
+Also, before measure, we need to connect the external power supply to the stepper motor driver. For this stepper driver, we just need to connect VCC. 
 
 
 <img src="images/stepperdriver/measurevref1.png" alt="image of the schematic" width=600>
