@@ -96,8 +96,6 @@ Our Sense resistor value is 110 Ω in this case. We can find it out by examine o
 
 Note that this formula works for both TMC2209 and TMC2208.
 
-Foe A4988 driver, Vref= 8 * Max current of a stepper motor * Sense resistor value.
-
 let's suppose we are using this stepper motor [stepper motor from pololu](https://www.pololu.com/product/1204)
 
 **Max current of a stepper motor**
