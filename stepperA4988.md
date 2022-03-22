@@ -26,11 +26,9 @@ Or it might be a 6 wire with the two center taps tied together.
 
 See this tutorial here: [connecting stepper motors with different numbers of wires](https://www.pololu.com/docs/0J71/4.2)
 
-When we use a bipolar stepper driver, we can see its pin configuration usually like this:
+When we use a bipolar stepper driver, we can see its pin configuration has A1 A2 B1 B2. A1 A2 is for the Coil 1 of the stepper motor. B1 B2 is for the Coil 2 of the stepper motor.
 
-<img src="images/stepperdriver/TMC2209V1.2Pin.jpg" alt="a stepper motor driver pin configuration" width=400>
-
-So A1 A2 should be connected to A+ A-, B1 B2 should be connected to B+ B-. According to my experience, the only thing matters is that you should pair them right. The polarity doesn’t matter.
+The only thing matters is that you should pair them into the right group. The polarity doesn’t matter.
 
 <p>&nbsp;</p>
 
@@ -41,10 +39,6 @@ Sometimes, the stepper motors are manufactured with different standard and the o
 <img  src="images/stepperdriver/stepper.png" width=400 alt="Jason and lulu's stepper motor is actually different! what a difficult world">
 
 **So I use a multimeter!** The coil A is not connected with coil B in a bipolar stepper motor. If you measure the 2 resistance of coil A1 and coil A2, it should be very small. In this case, the resistance is just 3.2 Ω.
-
-Or we can tear it down.
-
-<img  src="images/stepperdriver/stepperteared.png" width=400 alt="Jason's stepper they are actually 4 wire">
 
 Or we can spin the motor. (credit [here](https://www.makerguides.com/tb6600-stepper-motor-driver-arduino-tutorial/))
 
