@@ -74,15 +74,11 @@ We need to use a screw driver to adjust the small screw on our board and measure
 Also, before measure, we need to connect the external power supply to the stepper motor driver. For this stepper driver, we just need to connect VCC. 
 
 
-<img src="images/stepperdriver/measurevref1.png" alt="image of the schematic" width=600>
 
-**Formula is:**
-
-<img src="https://i.all3dp.com/cdn-cgi/image/fit=cover,w=1000,gravity=0.5x0.5,format=auto/wp-content/uploads/2021/09/09150356/formula-for-calculating-vref-for-the-tmc2208-or-th-lucas-carolo-via-all3dp-210827_download.jpg" alt="vref" width=600>
 
 **Sense resistor value**
 
-Our Sense resistor value is 110 Ω in this case. We can find it out by examine our motor driver.
+Our Sense resistor value is 100(0.1) in this case. We can find it out by examine our motor driver.
 
 Note that this formula works for both TMC2209 and TMC2208.
 
@@ -109,12 +105,20 @@ Additional Video: [Pololu stepper motor set Vref tutorial] (https://youtu.be/89B
 ### **Step 2: Schematics**
 
 
+<!-- <img src="http://img-for-hk.wds168.cn/comdata/51404/product/20180620155143E751C872DF7C7EBB_b.jpg" alt="HiLetGo stepper motor driver from Amazon" width=600> -->
 
-![schematics of arduino and stepper motor and driver](images/stepperdriver/schematics.png)
+<img src="https://a.pololu-files.com/picture/0J10073.600.jpg?75d9ca5bb2e095e5c5f64350019e1b81" alt="schematics of arduino and stepper motor and driver" width=600>
 
-<img src="images/stepperdriver/ms1ms2.png" alt="microstepping" width=400>
 
-I left the MS1 and MS2 not connected, their default value is pulled down to be low. So it is 1/8 microstep. Our stepper is 1.8 degree step angle, which means 200 steps per revolution. Stepper motors typically have a step size of 1.8° or 200 steps per revolution, this refers to full steps. So the steps we need to complete a revolution is 1600 steps.
+|MS1	|MS2	|MS3	|Microstep Resolution|
+ --- | --- | --- | --- |
+|Low	|Low	|Low	|Full step|
+|High	|Low	|Low	|Half step
+|Low	|High	|Low	|Quarter step
+|High	|High	|Low	|Eighth step
+|High	|High	|High	|Sixteenth step
+
+
 
 <p>&nbsp;</p>
 
@@ -124,7 +128,7 @@ I left the MS1 and MS2 not connected, their default value is pulled down to be l
 
 When Direction pin is high, the stepper motor would rotate clockwise. When its low, it would rotate counter-clockwise
 
-```
+```cpp
 {
     // Set the spinning direction clockwise:
     digitalWrite(dirPin, HIGH);
@@ -135,7 +139,7 @@ When Direction pin is high, the stepper motor would rotate clockwise. When its l
 
 To make a step motor rotate one step, we need to create one pulse on the stepper pin.
 
-```
+```cpp
 {
     // these four lines would result in the stepper motor to rotate 1 microstep, it creates one pulse
     digitalWrite(stepPin, HIGH);
@@ -147,7 +151,7 @@ To make a step motor rotate one step, we need to create one pulse on the stepper
 
 To make a step motor rotate one revolution, we repeat it 1600 times, which is the number of steps it needs for a full revolution.
 
-```
+```cpp
 {
     //stepper would rotate clockwise for one revolution
     digitalWrite(dirPin, HIGH);
@@ -163,5 +167,47 @@ To make a step motor rotate one revolution, we repeat it 1600 times, which is th
 By changing the parameters for delayMicroseconds, we can have fun by controlling stepper speed.
 
 Example code found here [code](/stepper_motor_code/stepper_motor_Dir___Step.ino)
+
+```cpp
+/* Example sketch adapted by Lulu from a tutorial to control a stepper motor with TB6600 stepper motor driver https://www.makerguides.com/tb6600-stepper-motor-driver-arduino-tutorial/
+// More info: https://www.makerguides.com */
+// Define stepper motor connections and steps per revolution:
+#define dirPin 2
+#define stepPin 3
+#define stepsPerRevolution 3200
+
+const int intervalTime=1000;
+
+void setup() {
+  // Declare pins as output:
+  pinMode(stepPin, OUTPUT);
+  pinMode(dirPin, OUTPUT);
+}
+void loop() {
+  // Set the spinning direction clockwise:
+  digitalWrite(dirPin, HIGH);
+  // Spin the stepper motor 1 revolution:
+  for (int i = 0; i < 1 * stepsPerRevolution; i++) {
+    // These four lines result in 1 step:
+    digitalWrite(stepPin, HIGH);
+    delayMicroseconds(intervalTime);
+    digitalWrite(stepPin, LOW);
+    delayMicroseconds(intervalTime);
+  }
+  delay(1000);
+  // Set the spinning direction counterclockwise:
+  digitalWrite(dirPin, LOW);
+  // Spin the stepper motor 1 revolution:
+  for (int i = 0; i < 1 * stepsPerRevolution; i++) {
+    // These four lines result in 1 step:
+    digitalWrite(stepPin, HIGH);
+    delayMicroseconds(intervalTime);
+    digitalWrite(stepPin, LOW);
+    delayMicroseconds(intervalTime);
+  }
+  delay(1000);
+}  
+
+```
 
 <p>&nbsp;</p>
