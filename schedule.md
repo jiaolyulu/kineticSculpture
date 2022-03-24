@@ -74,7 +74,7 @@ talk about the final project
 
 [slide](https://docs.google.com/presentation/d/1dfep1qj0_mXK4wCVpKLdVQtoGF9ODLN1W1-e40YU5M0/edit?usp=sharing) Motor control
 
-**7: Mar, 26, 2022, 1:00 pm - 2:30 pm, Controlling Stepper Motors, Other actuators, Guest Speaker**
+**7: Apr 2, 2022, 1:00 pm - 2:30 pm, Controlling Stepper Motors, Other actuators, Guest Speaker**
 
 Maybe there is a field trip before this session
 
@@ -83,11 +83,11 @@ Maybe there is a field trip before this session
 [Slide for Sharing your interest or project](https://docs.google.com/presentation/d/1J7OCi2UwnFKZulq5AjOrl7CSz38PUzV7Y9OkxqNf8_s/edit?usp=sharing)
 talk about the final project
 
-**8: Apr 2, 2022, 1:00 pm - 2:30 pm, Motor mount, Mcmaster** 
+**8: Apr 9, 2022, 1:00 pm - 2:30 pm, Motor mount, Mcmaster** 
 
 A glance at Mcmaster  
 
-**9: Apr 9, 2022, 1:00 pm - 2:30 pm, Tips for finishing a project** 
+**9: Apr 16, 2022, 1:00 pm - 2:30 pm, Tips for finishing a project** 
 
 Slide for better finishing a project
 
@@ -97,7 +97,7 @@ sheet metal bending
 
 talk about the final project
 
-**10 Apr 16, 2022, 1:00 pm -2:30 pm, Automata and their mechanism**
+**10 Apr 23, 2022, 1:00 pm -2:30 pm, Automata and their mechanism**
 
 Automata and its Mechanism, ![image of an automata which is a machine full of mechanical moving part to write and draw something. The machine is made into the shape of a little boy](images/clubSpiritAutomata1.gif)
 
