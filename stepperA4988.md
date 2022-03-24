@@ -69,12 +69,9 @@ Also, before measure, we need to connect the external power supply to the steppe
 
 
 
-
 **Sense resistor value**
 
 Our Sense resistor value is 100(0.1) in this case. We can find it out by examine our motor driver.
-
-Note that this formula works for both TMC2209 and TMC2208.
 
 Foe A4988 driver, Vref= 8 * Max current of a stepper motor * Sense resistor value.
 
@@ -88,7 +85,7 @@ Voltage rating: 3.9 V
 
 When we look at the parameters for a stepper motor, it would says a rated voltage and current. For this stepper motor, it would drive 600 mA under 3.9V. Unlike dc motors, stepper motors can operate under higher voltage if we use stepper motor driver. Stepper motors are designed to work this way and it is safe to run the motors at up to 20 times the rated voltage.  You will actually get better performance by running at a higher voltage than the rated voltage. If you hook it up to to 12V, for example, the motor while attempt to draw more current, but the stepper motor driver will not allow that to happen and use high frequency pulses to limit the average current to the desired maximum value.
 
-Our max current is 600 mA. 
+Our max current is 600 mA. Note: If you want to use stepper motor in Full step mode, the max current needs to be 1.4 * Imax.
 
 So the Vref we desired should be around 0.5V. Use a screw driver to adjust the value until we measure the Vref to be 0.5V. Clockwise for reduce Vref and Counter-clockwise to increase.
 
