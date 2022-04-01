@@ -1,5 +1,7 @@
 # **Stepper motor**
 
+[slide link](https://docs.google.com/presentation/d/10lqaPPDLgNxQk3ZaB603aZPIOM5Mnd8XHKxXp5JCfcs/edit?usp=sharing)
+
 [Stepper motor types from ITP physical computing site](https://vimeo.com/380417082?embedded=true&source=vimeo_logo&owner=3661860)
 
 ## **4/6 wire steppers how to wire it to stepper driver?**
