@@ -109,7 +109,7 @@ What it means when I watch the feather gently weeps my guitar？Thinking kinetic
 
 Alexander Calder's early practice... wire
 
-**10: May 5 - May 9, 2022**
+**10: May 6 afternoon - May 9, 2022**
 
 Showcasing all project in ROOM 404 for 1 week.
 
