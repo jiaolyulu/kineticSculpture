@@ -8,9 +8,9 @@
 <img  src="https://itp.nyu.edu/thesis2022/wp-content/uploads/2022/04/image-text.jpg" width=400 alt="image of the installation the cube reflect light and create colors">
 <img  src="https://itp.nyu.edu/thesis2022/wp-content/uploads/2022/04/IMG_2638.jpg" width=400 alt="light spots">
 
+<p>&nbsp;</p><p>&nbsp;</p>
 
-
-### Marcel Wang
+### **Marcel Wang**
 
 ![<img src="https://yiranwang.art/wp-content/uploads/2022/05/twoBoxes.jpg" width=800 alt="An installation about Emotion Studies">](https://vimeo.com/707996396)
 
@@ -24,8 +24,8 @@ She started this series project by recalling her awful experiences in high schoo
 
 The artist enjoys playing with paper as she believes that the materiality of paper is very similar to some of the characteristics of human beings. Blank paper is a unique medium for interpretation as its emptiness is not valueless or information-free but leaves an endless space for people to fill with imaginations and memories. The state in which the paper is applied with force shows a dynamic relationship between opposition and balance, order and chaos. Even with a tiny force change on paper, it can never go back to its original flat, just like pain fades away over time, but we will never forget it. Pain will always remind us of what we have been through and who we are.
 
-<img src="https://yiranwang.art/wp-content/uploads/2022/06/3J0A0118-copy-2-1.png" width=32% alt="An installation about Emotion Studies">
-<img src="https://yiranwang.art/wp-content/uploads/2022/06/Box2_Push2.jpg" width=32%  alt="An installation about Emotion Studies">
-<img src="https://yiranwang.art/wp-content/uploads/2022/06/TwoBoxes-together-1436.jpg" width=32%  alt="An installation about Emotion Studies">
+<img src="https://yiranwang.art/wp-content/uploads/2022/06/3J0A0118-copy-2-1.png" width=39% alt="An installation about Emotion Studies">
+<img src="https://yiranwang.art/wp-content/uploads/2022/06/Box2_Push2.jpg" width=39%  alt="An installation about Emotion Studies">
+<img src="https://yiranwang.art/wp-content/uploads/2022/06/TwoBoxes-together-1436.jpg" width=19%  alt="An installation about Emotion Studies">
 <img src="https://yiranwang.art/wp-content/uploads/2022/06/doclab_02.jpg" width=49% alt="An installation about Emotion Studies">
 <img src="https://yiranwang.art/wp-content/uploads/2022/06/doclab_01.png" width=49% alt="An installation about Emotion Studies">
