@@ -42,3 +42,6 @@ Our ER has two of them to check out.
 
 [Flexures](https://github.com/amymakesstuff/flexure-fun)
 
+### Books
+
+Making things move by Dustyn Roberts, this book is on ITP bookshelf
