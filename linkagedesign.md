@@ -183,6 +183,8 @@ In Wikipedia there is [Mathematical proof of concept](https://en.wikipedia.org/w
 [linkage mechanisms in animal joints and related
 bioinspired designs pdf view link](https://iopscience.iop.org/article/10.1088/1748-3190/abf744/pdf)
 
+Why the beak of birds are curved and how birds could control the end of their beaks. [they controlled it by moving their maxilla](https://mp.weixin.qq.com/s/7DSoPQewo8s3DIHpvAY31w)
+
 ### Other linkage related artwork or examples
 
 [tickling fox](https://www.instagram.com/p/CaCvtcSgvwd/)
