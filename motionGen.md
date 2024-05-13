@@ -1,15 +1,12 @@
 ## things to say...
 
----
+About me:
 
-- our exhibition space is determined. May 5 - May 9, 2022. Showcasing all project in ROOM 404 for 1 week.
+I am lu lyu, a kinetic artist and automata lover. 
 
-- material connexion
-
+My website: [lulyu's art](https://lulyu.me)
 
 **Our goal of this session:**
-
-Nerd Warning!!!
 
 [![Bob Potts pursuit](http://www.mbandf.com/_newsletters/140701_MAD27m48/images/down/BobPotts-PursuitTwo_1440.jpg)](https://vimeo.com/99242581)
 
@@ -46,8 +43,14 @@ the prismatic, or sliding
 4. **Degree of Freedom**
 
 - dof=0
+
+
 - dof=1
+
+
 - dof=2
+
+![2 gear five bar linkage system](https://upload.wikimedia.org/wikipedia/commons/9/95/Gear_5-bar_linkage.gif)
 
 5. **Crank and Coupler**
 
