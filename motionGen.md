@@ -22,46 +22,47 @@ They also have their kits sold here: [SnappyXO](https://snappyxo.com/motiongen-s
 
 My personal workflow will be motiongen -> cardboard -> fusion 360
 
-<p>&nbsp;</p>
+
+---
 
 ## **Terms.. The code of linkages**
 
+
+- **Fixed pivot and Moving Pivot**
+
+    ![pivot](https://technologystudent.com/cams/linkag1a.gif)
+
+- **R**
+
+    the revolute, or hinged
+
+- **P**
+
+    the prismatic, or sliding
+
+- **Degree of Freedom**
+
+    - dof=0
+    - dof=1
+    ![four bar linkage](https://upload.wikimedia.org/wikipedia/commons/5/5d/Crank-Rocker_4-bar_Linkage.gif)
+    - dof=2
+    ![2 gear five bar linkage system](https://upload.wikimedia.org/wikipedia/commons/9/95/Gear_5-bar_linkage.gif)
+
+- **Crank and Coupler**
+
+    ![Crank&&Coupler](https://www.brainbell.com/creo/images/image001.jpg)
+
 ---
 
-1. **Fixed pivot and Moving Pivot**
+## **Assignment1:**
 
-![pivot](https://technologystudent.com/cams/linkag1a.gif)
+Create a four bar linkage! in [MotionGen](http://motiongenpro.appspot.com/).
 
-2. **R**
-
-the revolute, or hinged
-
-3. **P**
-
-the prismatic, or sliding
-
-4. **Degree of Freedom**
-
-- dof=0
-- dof=1
-![four bar linkage](https://upload.wikimedia.org/wikipedia/commons/5/5d/Crank-Rocker_4-bar_Linkage.gif)
-- dof=2
-![2 gear five bar linkage system](https://upload.wikimedia.org/wikipedia/commons/9/95/Gear_5-bar_linkage.gif)
-
-5. **Crank and Coupler**
-
-![Crank&&Coupler](https://www.brainbell.com/creo/images/image001.jpg)
-
-<p>&nbsp;</p>
-
+---
 
 ## **Four Bar Linkage**
 
----
-
-### **Assignment1:**
-
-Create a four bar linkage! in [MotionGen](http://motiongenpro.appspot.com/).
+### what is four bar linkages?
 
 ![full revolution 4 bar](images/linkage/fourbarfull.gif)
 
@@ -73,96 +74,122 @@ Four bar linkage is everywhere!
 
 [Four Bar Linkage Explain](c) a video showing different four bar linkages
 
-Why?
-
 [Grashof's Law](https://youtu.be/h8bz4ni6mdY) a video explaining a formula that would result in different behavior move of a four bar linkage
 
-<p>&nbsp;</p>
 
+---
 
-### **if we made some small adaptations to four bar linkages**
+## getting advanced on linkage design
 
 - Four bar linakge is a **RRRR**
 
 - **RRRRR**
 
-Add another driven R.
+    Add another driven R.
 
-![RRRRR](images/linkage/2barbetween.gif)
+    ![RRRRR](images/linkage/2barbetween.gif)
 
 - **RPRR**
 
-![RPRR](images/linkage/RPRR.gif)
+    ![RPRR](images/linkage/RPRR.gif)
 
 - **RRRP**
 
-![RRRP](images/linkage/RRRP.gif)
+    ![RRRP](images/linkage/RRRP.gif)
 
 ### **Combination**
 
 - **RRRR+RRRR**
 
-![cancer](https://image.shutterstock.com/image-vector/constellation-cancer-260nw-516818347.jpg)
+    ![cancer](https://image.shutterstock.com/image-vector/constellation-cancer-260nw-516818347.jpg)
 
 - **RRRR+RRRP**
 
-![fourbar and slide](images/linkage/fourbar&slide.gif)
+    ![fourbar and slide](images/linkage/fourbar&slide.gif)
 
 - **RRRPRRR**
 
-![butterfly](images/linkage/butterfly.gif)
+    ![butterfly](images/linkage/butterfly.gif)
 
 - **RPRR+RRRR**
 
-![cube](images/linkage/movecube.gif)
+    ![cube](images/linkage/movecube.gif)
 
-[placing a cube](https://youtu.be/IJASpyZ_vtY)
+    [placing a cube](https://youtu.be/IJASpyZ_vtY)
 
 - 2 bar between 2 driven points
 
-![2 bar between 2 driven points](images/linkage/2barbetween.gif)
+    ![2 bar between 2 driven points](images/linkage/2barbetween.gif)
 
 ### **Using lever**
 
 - **REVERSE MOTION LINKAGE**
 
-![](https://technologystudent.com/cams/linkag1a.gif)
+    ![](https://technologystudent.com/cams/linkag1a.gif)
 
 
 - **PARALLEL MOTION LINKAGE**
 
-![](https://technologystudent.com/cams/linkag2a.gif)
-
-
-<p>&nbsp;</p>
-
-## **Assignment2:**
-
-Try to recreate STRANDBEEST in motion gen
-
-[11 numbers](https://blogs.brighton.ac.uk/strandebeest/#:~:text=These%2C%20then%2C%20are%20the%20holy,walk%20the%20way%20they%20do.%E2%80%9D)
-
- a = 38, b = 41.5, c = 39.3, d = 40.1, e = 55.8, f = 39.4, g = 36.7, h = 65.7, i = 49, j = 50, k = 61.9, l=7.8, m=15 
-
-### **The Holy 11 numbers**
-
-[a science fiction article about this 11 numbers](https://clarkesworldmagazine.com/theodoridou_02_14/)
-
-[STRANDBEEST](https://youtu.be/LewVEF2B_pM) by Artist Theo Jansen
-
-## Artwork Analyse
+    ![](https://technologystudent.com/cams/linkag2a.gif)
 
 ---
 
-[bob potts pursuit](https://vimeo.com/99242581)
+## **Assignment2:**
 
-Look at the video and analyse the linkage system.. rebuild it in Motiongenpro.
+    Try to design a linkage system in motionGen
 
-<p>&nbsp;</p>
+    - encourage a simple concept
 
-My explaination video: [Linkof a video linkage design workshop 2](https://youtu.be/7FiIK0BkHbA)
+    - hint: try to draw some shapes and attach shape to linkages
 
-<p>&nbsp;</p>
+## inspirations
+
+### **The Holy 11 numbers**
+
+    [a science fiction article about this 11 numbers](https://clarkesworldmagazine.com/theodoridou_02_14/)
+
+    [11 numbers](https://blogs.brighton.ac.uk/strandebeest/#:~:text=These%2C%20then%2C%20are%20the%20holy,walk%20the%20way%20they%20do.%E2%80%9D)
+
+    a = 38, b = 41.5, c = 39.3, d = 40.1, e = 55.8, f = 39.4, g = 36.7, h = 65.7, i = 49, j = 50, k = 61.9, l=7.8, m=15 
+
+    [STRANDBEEST](https://youtu.be/LewVEF2B_pM) by Artist Theo Jansen
+
+
+### **The Peaucellier–Lipkin linkage**
+
+    The first planar linkage capable of transforming rotary motion into perfect straight-line motion
+
+    ![peaucellier lipkin linkage](images/peaucellier–lipkin-linkage.gif)
+
+    In Wikipedia there is [Mathematical proof of concept](https://en.wikipedia.org/wiki/Peaucellier%E2%80%93Lipkin_linkage)
+
+
+### **Watt parallel motion**
+
+    [![watt steam engine](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Watt_Parallel_Motion_Simulation.gif/440px-Watt_Parallel_Motion_Simulation.gif)](https://en.wikipedia.org/wiki/Parallel_motion)
+
+
+
+### **bio inspired linkages**
+
+    [linkage mechanisms in animal joints and related
+    bioinspired designs pdf view link](https://iopscience.iop.org/article/10.1088/1748-3190/abf744/pdf)
+
+    Why the beak of birds are curved and how birds could control the end of their beaks. [they controlled it by moving their maxilla](https://mp.weixin.qq.com/s/7DSoPQewo8s3DIHpvAY31w)
+
+### Other linkage related artwork or examples
+
+    [tickling fox](https://www.instagram.com/p/CaCvtcSgvwd/)
+
+    [an automaton horse](https://youtu.be/YGoVssO3yEU)
+
+    [Archer Automaton](https://youtu.be/YIuBXjywir0)
+
+    [a flower clock](https://pin.it/2sREfee)
+
+    [an ox](https://pin.it/zVMnTIs)
+
+    [Tenfold](https://www.core77.com/posts/67529/Ten-Nifty-Linkage-Designs)
 
 
 ## CARDBOARD time
@@ -172,80 +199,27 @@ My explaination video: [Linkof a video linkage design workshop 2](https://youtu.
 design a linkage system. Then prototype it with cardboard.
 
 
-## Famous linkage Examples...
+
+
+## Artwork Analyse
 
 ---
 
-### **The Peaucellier–Lipkin linkage**
+[bob potts pursuit](https://vimeo.com/99242581)
 
-The first planar linkage capable of transforming rotary motion into perfect straight-line motion
+Look at the video and analyse the linkage system.. rebuild it in Motiongenpro.
 
-![peaucellier lipkin linkage](images/peaucellier–lipkin-linkage.gif)
-
-In Wikipedia there is [Mathematical proof of concept](https://en.wikipedia.org/wiki/Peaucellier%E2%80%93Lipkin_linkage)
-
-<p>&nbsp;</p>
+My explaination video: [Linkof a video linkage design workshop 2](https://youtu.be/7FiIK0BkHbA)
 
 
 
-<p>&nbsp;</p>
-
-### **Watt parallel motion**
-
-[![watt steam engine](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Watt_Parallel_Motion_Simulation.gif/440px-Watt_Parallel_Motion_Simulation.gif)](https://en.wikipedia.org/wiki/Parallel_motion)
-
-<p>&nbsp;</p>
-
-### **bio inspired linkages**
-
-[linkage mechanisms in animal joints and related
-bioinspired designs pdf view link](https://iopscience.iop.org/article/10.1088/1748-3190/abf744/pdf)
-
-Why the beak of birds are curved and how birds could control the end of their beaks. [they controlled it by moving their maxilla](https://mp.weixin.qq.com/s/7DSoPQewo8s3DIHpvAY31w)
-
-### Other linkage related artwork or examples
-
-[tickling fox](https://www.instagram.com/p/CaCvtcSgvwd/)
-
-[an automaton horse](https://youtu.be/YGoVssO3yEU)
-
-[Archer Automaton](https://youtu.be/YIuBXjywir0)
-
-[a flower clock](https://pin.it/2sREfee)
-
-[an ox](https://pin.it/zVMnTIs)
-
-[Tenfold](https://www.core77.com/posts/67529/Ten-Nifty-Linkage-Designs)
-
-<p>&nbsp;</p>
-
-### other things I found interesting
+## other readings
 
 [Linkage can draw all the curves mathematically... 中文视频 sorry I didn't find a better video in English](https://www.bilibili.com/video/BV18h411W78v?share_source=copy_web)
 
----
 [Degree of freedom Formula](https://en.wikipedia.org/wiki/Degrees_of_freedom_(mechanics))
 
 reverse and parallel photos credit [here](https://technologystudent.com/cams/link1.htm)
 
-<p>&nbsp;</p>
 
-## After Motiongen
-
----
-
-How to overcome the nerd power from the interface and be creative?
-
-## things to say...
-
----
-
-- our exhibition space is determined.
-
-May 5 - May 9, 2022
-
-Showcasing all project in ROOM 404 for 1 week.
-
-- material connexion
-
-- club spirit edit
+## Discussion, Questions
