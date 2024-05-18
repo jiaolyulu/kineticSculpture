@@ -24,7 +24,7 @@ My personal workflow will be motiongen -> cardboard -> fusion 360
 
 <p>&nbsp;</p>
 
-## **Terms.. The code of linakges**
+## **Terms.. The code of linkages**
 
 ---
 
@@ -43,13 +43,9 @@ the prismatic, or sliding
 4. **Degree of Freedom**
 
 - dof=0
-
-
 - dof=1
-
-
+![four bar linkage](https://upload.wikimedia.org/wikipedia/commons/5/5d/Crank-Rocker_4-bar_Linkage.gif)
 - dof=2
-
 ![2 gear five bar linkage system](https://upload.wikimedia.org/wikipedia/commons/9/95/Gear_5-bar_linkage.gif)
 
 5. **Crank and Coupler**
@@ -63,7 +59,7 @@ the prismatic, or sliding
 
 ---
 
-### **Assignment:**
+### **Assignment1:**
 
 Create a four bar linkage! in [MotionGen](http://motiongenpro.appspot.com/).
 
@@ -75,15 +71,14 @@ Four bar linkage is everywhere!
 
 ![bio linkage knee](images/linkage/knee-fourbar.gif)
 
-[lulu's tic-toking machine](https://www.lulyu.me/work/tictoking) 
-
-[Four Bar Linkage Explain](https://youtu.be/Vh8r_Cpfb8Q) a video showing different four bar linkages
+[Four Bar Linkage Explain](c) a video showing different four bar linkages
 
 Why?
 
 [Grashof's Law](https://youtu.be/h8bz4ni6mdY) a video explaining a formula that would result in different behavior move of a four bar linkage
 
 <p>&nbsp;</p>
+
 
 ### **if we made some small adaptations to four bar linkages**
 
@@ -141,6 +136,20 @@ Add another driven R.
 
 <p>&nbsp;</p>
 
+## **Assignment2:**
+
+Try to recreate STRANDBEEST in motion gen
+
+[11 numbers](https://blogs.brighton.ac.uk/strandebeest/#:~:text=These%2C%20then%2C%20are%20the%20holy,walk%20the%20way%20they%20do.%E2%80%9D)
+
+ a = 38, b = 41.5, c = 39.3, d = 40.1, e = 55.8, f = 39.4, g = 36.7, h = 65.7, i = 49, j = 50, k = 61.9, l=7.8, m=15 
+
+### **The Holy 11 numbers**
+
+[a science fiction article about this 11 numbers](https://clarkesworldmagazine.com/theodoridou_02_14/)
+
+[STRANDBEEST](https://youtu.be/LewVEF2B_pM) by Artist Theo Jansen
+
 ## Artwork Analyse
 
 ---
@@ -177,11 +186,7 @@ In Wikipedia there is [Mathematical proof of concept](https://en.wikipedia.org/w
 
 <p>&nbsp;</p>
 
-### **The Holy 11 numbers**
 
-[a science fiction article about this 11 numbers](https://clarkesworldmagazine.com/theodoridou_02_14/)
-
-[STRANDBEEST](https://youtu.be/LewVEF2B_pM) by Artist Theo Jansen
 
 <p>&nbsp;</p>
 
