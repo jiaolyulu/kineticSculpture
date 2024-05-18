@@ -79,7 +79,7 @@ Four bar linkage is everywhere!
 
 ---
 
-## getting advanced on linkage design
+## Get advanced on linkage design
 
 - Four bar linakge is a **RRRR**
 
@@ -146,50 +146,50 @@ Four bar linkage is everywhere!
 
 ### **The Holy 11 numbers**
 
-    [a science fiction article about this 11 numbers](https://clarkesworldmagazine.com/theodoridou_02_14/)
+[a science fiction article about this 11 numbers](https://clarkesworldmagazine.com/theodoridou_02_14/)
 
-    [11 numbers](https://blogs.brighton.ac.uk/strandebeest/#:~:text=These%2C%20then%2C%20are%20the%20holy,walk%20the%20way%20they%20do.%E2%80%9D)
+[11 numbers](https://blogs.brighton.ac.uk/strandebeest/#:~:text=These%2C%20then%2C%20are%20the%20holy,walk%20the%20way%20they%20do.%E2%80%9D)
 
-    a = 38, b = 41.5, c = 39.3, d = 40.1, e = 55.8, f = 39.4, g = 36.7, h = 65.7, i = 49, j = 50, k = 61.9, l=7.8, m=15 
+a = 38, b = 41.5, c = 39.3, d = 40.1, e = 55.8, f = 39.4, g = 36.7, h = 65.7, i = 49, j = 50, k = 61.9, l=7.8, m=15 
 
-    [STRANDBEEST](https://youtu.be/LewVEF2B_pM) by Artist Theo Jansen
+[STRANDBEEST](https://youtu.be/LewVEF2B_pM) by Artist Theo Jansen
 
 
 ### **The Peaucellier–Lipkin linkage**
 
-    The first planar linkage capable of transforming rotary motion into perfect straight-line motion
+The first planar linkage capable of transforming rotary motion into perfect straight-line motion
 
-    ![peaucellier lipkin linkage](images/peaucellier–lipkin-linkage.gif)
+![peaucellier lipkin linkage](images/peaucellier–lipkin-linkage.gif)
 
-    In Wikipedia there is [Mathematical proof of concept](https://en.wikipedia.org/wiki/Peaucellier%E2%80%93Lipkin_linkage)
+In Wikipedia there is [Mathematical proof of concept](https://en.wikipedia.org/wiki/Peaucellier%E2%80%93Lipkin_linkage)
 
 
 ### **Watt parallel motion**
 
-    [![watt steam engine](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Watt_Parallel_Motion_Simulation.gif/440px-Watt_Parallel_Motion_Simulation.gif)](https://en.wikipedia.org/wiki/Parallel_motion)
+[![watt steam engine](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Watt_Parallel_Motion_Simulation.gif/440px-Watt_Parallel_Motion_Simulation.gif)](https://en.wikipedia.org/wiki/Parallel_motion)
 
 
 
 ### **bio inspired linkages**
 
-    [linkage mechanisms in animal joints and related
-    bioinspired designs pdf view link](https://iopscience.iop.org/article/10.1088/1748-3190/abf744/pdf)
+[linkage mechanisms in animal joints and related
+bioinspired designs pdf view link](https://iopscience.iop.org/article/10.1088/1748-3190/abf744/pdf)
 
-    Why the beak of birds are curved and how birds could control the end of their beaks. [they controlled it by moving their maxilla](https://mp.weixin.qq.com/s/7DSoPQewo8s3DIHpvAY31w)
+Why the beak of birds are curved and how birds could control the end of their beaks. [they controlled it by moving their maxilla](https://mp.weixin.qq.com/s/7DSoPQewo8s3DIHpvAY31w)
 
 ### Other linkage related artwork or examples
 
-    [tickling fox](https://www.instagram.com/p/CaCvtcSgvwd/)
+[tickling fox](https://www.instagram.com/p/CaCvtcSgvwd/)
 
-    [an automaton horse](https://youtu.be/YGoVssO3yEU)
+[an automaton horse](https://youtu.be/YGoVssO3yEU)
 
-    [Archer Automaton](https://youtu.be/YIuBXjywir0)
+[Archer Automaton](https://youtu.be/YIuBXjywir0)
 
-    [a flower clock](https://pin.it/2sREfee)
+[a flower clock](https://pin.it/2sREfee)
 
-    [an ox](https://pin.it/zVMnTIs)
+[an ox](https://pin.it/zVMnTIs)
 
-    [Tenfold](https://www.core77.com/posts/67529/Ten-Nifty-Linkage-Designs)
+[Tenfold](https://www.core77.com/posts/67529/Ten-Nifty-Linkage-Designs)
 
 
 ## CARDBOARD time
